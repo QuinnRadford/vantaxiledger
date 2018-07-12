@@ -1,0 +1,37 @@
+Account Summary For Doshanjh P (522942) Cab 101D
+Account Number: 22101001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5442.59
+INCOME
+  Lease:                                           $    170.00
+  Envelopes:                                       $   4402.46
+  Other Credits:                                   $   3063.70
+TOTAL INCOME:                                      $   7636.16
+TOTAL EXPENSE:                                     $   1664.86
+BALANCE:                                           $  11413.89
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT101 Day Tuesday - ID 69885  RAJAT COCA  1-May-18 $     85.00
+VT101 Day Wednesday - ID 69885  RAJAT CO  2-May-18 $     85.00
+Insurance                                31-May-18 $   (988.01)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $    222.10
+31-May                                   31-May-18 $   2066.70
+15 - 101                                 31-May-18 $    918.18
+201 - 101                                31-May-18 $    744.85
+RAJAT COCASSE INSF BALANCE 101           31-May-18 $   (190.00)
+22D - 101D                               31-May-18 $   1400.67
+11-May                                   31-May-18 $    223.50
+11-May                                   31-May-18 $   1890.16
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.933464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,52 @@
+Account Summary For Barn Parminder Cab 209N
+Account Number: 22209002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $     22.40
+INCOME
+  Lease:                                           $   1610.00
+  Envelopes:                                       $   2586.14
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   4196.14
+TOTAL EXPENSE:                                     $   1535.62
+BALANCE:                                           $   2682.92
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT209 Night Tuesday - ID 645729  ZORAN    1-May-18 $     95.00
+VT209 Night Wednesday - ID 645729  ZORAN  2-May-18 $    100.00
+VT209 Night Thursday - ID 645729  ZORAN   3-May-18 $    120.00
+VT209 Night Friday - ID 645729  ZORAN     4-May-18 $    200.00
+VT209 Night Monday - ID 645729  ZORAN     7-May-18 $     95.00
+VT209 Night Tuesday - ID 645729  ZORAN    8-May-18 $     95.00
+VT209 Night Wednesday - ID 645729  ZORAN  9-May-18 $    100.00
+VT209 Night Thursday - ID 645729  ZORAN  10-May-18 $    120.00
+VT209 Night Friday - ID 645729  ZORAN    11-May-18 $    200.00
+VT209 Night Monday - ID 645729  ZORAN    14-May-18 $     95.00
+VT209 Night Tuesday - ID 645729  ZORAN   15-May-18 $     95.00
+VT209 Night Wednesday - ID 645729  ZORAN 16-May-18 $    100.00
+VT209 Night Thursday - ID 645729  ZORAN  17-May-18 $    120.00
+VT209 Night Friday - ID 645729  ZORAN    18-May-18 $    200.00
+VT209 Night Sunday - ID 155156  YUVRAJ   20-May-18 $    120.00
+VT209 Night Tuesday - ID 645729  ZORAN   22-May-18 $     95.00
+VT209 Night Thursday - ID 645729  ZORAN  24-May-18 $    120.00
+VT209 Night Friday - ID 645729  ZORAN    25-May-18 $    200.00
+VT209 Night Sunday - ID 155156  YUVRAJ   27-May-18 $     95.00
+VT209 Night Tuesday - ID 645729  ZORAN   29-May-18 $     95.00
+VT209 Night Wednesday - ID 645729  ZORAN 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1045.97)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT209 Night Thursday - ID 645729  ZORAN  31-May-18 $    120.00
+31-May                                   31-May-18 $     30.50
+31-May                                   31-May-18 $   2555.64
+PARMINDER BARN LEASE MAY 42N             31-May-18 $  (1070.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.958464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

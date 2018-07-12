@@ -1,0 +1,39 @@
+Account Summary For Bains R ( 341782) Cab 003N
+Account Number: 22003002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   7324.76
+INCOME
+  Lease:                                           $    855.00
+  Envelopes:                                       $   4779.07
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5634.07
+TOTAL EXPENSE:                                     $   1493.45
+BALANCE:                                           $  11465.38
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT3 Night Tuesday - ID 6219  MOHOD   EMR  1-May-18 $     95.00
+VT3 Night Monday - ID 6219  MOHOD   EMRA  7-May-18 $     95.00
+VT3 Night Tuesday - ID 6219  MOHOD   EMR  8-May-18 $     95.00
+VT3 Night Monday - ID 6219  MOHOD   EMRA 14-May-18 $     95.00
+VT3 Night Tuesday - ID 6219  MOHOD   EMR 15-May-18 $     95.00
+VT3 Night Monday - ID 6219  MOHOD   EMRA 21-May-18 $     95.00
+VT3 Night Tuesday - ID 6219  MOHOD   EMR 22-May-18 $     95.00
+VT3 Night Monday - ID 6219  MOHOD   EMRA 28-May-18 $     95.00
+VT3 Night Tuesday - ID 6219  MOHOD   EMR 29-May-18 $     95.00
+Insurance                                31-May-18 $  (1006.60)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $    167.00
+31-May                                   31-May-18 $   4612.07
+april deposit                            31-May-18 $  (3662.38)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.845464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

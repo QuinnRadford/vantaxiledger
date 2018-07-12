@@ -1,0 +1,59 @@
+Account Summary For Grewal S (710151) Cab 023N
+Account Number: 22023002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   3405.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3405.00
+TOTAL EXPENSE:                                     $   3445.00
+BALANCE:                                           $    (40.00)
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT23 Night Tuesday - ID 648080  MEHDI     1-May-18 $     80.00
+VT23 Night Wednesday - ID 648080  MEHDI   2-May-18 $     85.00
+VT23 Night Thursday - ID 648080  MEHDI    3-May-18 $    100.00
+VT23 Night Friday - ID 648080  MEHDI   S  4-May-18 $    180.00
+VT23 Night Saturday - ID 648080  MEHDI    5-May-18 $    180.00
+VT23 Night Sunday - ID 44083  ABDUL   NA  6-May-18 $     80.00
+VT23 Night Monday - ID 44083  ABDUL   NA  7-May-18 $     80.00
+VT23 Night Tuesday - ID 648080  MEHDI     8-May-18 $     80.00
+VT23 Night Wednesday - ID 648080  MEHDI   9-May-18 $     85.00
+VT23 Night Thursday - ID 648080  MEHDI   10-May-18 $    100.00
+VT23 Night Friday - ID 648080  MEHDI   S 11-May-18 $    180.00
+VT23 Night Saturday - ID 648080  MEHDI   12-May-18 $    180.00
+VT23 Night Sunday - ID 44083  ABDUL   NA 13-May-18 $     80.00
+VT23 Night Monday - ID 44083  ABDUL   NA 14-May-18 $     80.00
+VT23 Night Tuesday - ID 648080  MEHDI    15-May-18 $     80.00
+VT23 Night Wednesday - ID 648080  MEHDI  16-May-18 $     85.00
+VT23 Night Thursday - ID 648080  MEHDI   17-May-18 $    100.00
+VT23 Night Friday - ID 648080  MEHDI   S 18-May-18 $    180.00
+VT23 Night Saturday - ID 648080  MEHDI   19-May-18 $    180.00
+VT23 Night Sunday - ID 44083  ABDUL   NA 20-May-18 $     80.00
+VT23 Night Monday - ID 44083  ABDUL   NA 21-May-18 $     80.00
+VT23 Night Tuesday - ID 648080  MEHDI    22-May-18 $     80.00
+VT23 Night Wednesday - ID 648080  MEHDI  23-May-18 $     85.00
+VT23 Night Thursday - ID 648080  MEHDI   24-May-18 $    100.00
+VT23 Night Friday - ID 648080  MEHDI   S 25-May-18 $    180.00
+VT23 Night Saturday - ID 648080  MEHDI   26-May-18 $    180.00
+VT23 Night Sunday - ID 44083  ABDUL   NA 27-May-18 $     80.00
+VT23 Night Monday - ID 44083  ABDUL   NA 28-May-18 $     80.00
+VT23 Night Tuesday - ID 648080  MEHDI    29-May-18 $     80.00
+VT23 Night Wednesday - ID 648080  MEHDI  30-May-18 $     85.00
+Insurance                                31-May-18 $  (1009.93)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT23 Night Thursday - ID 648080  MEHDI   31-May-18 $    100.00
+DN                                       31-May-18 $  (1948.22)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.865464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

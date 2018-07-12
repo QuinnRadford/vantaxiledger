@@ -1,0 +1,32 @@
+Account Summary For Abdollahi Morteza(714243) Cab 44D
+Account Number: 22044001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  11144.53
+INCOME
+  Lease:                                           $    170.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   5756.73
+TOTAL INCOME:                                      $   5926.73
+TOTAL EXPENSE:                                     $   1447.66
+BALANCE:                                           $  15623.60
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT44 Day Thursday - ID 5997  FOROUHAR    10-May-18 $     85.00
+VT44 Day Wednesday - ID 5997  FOROUHAR   30-May-18 $     85.00
+Insurance                                31-May-18 $   (960.81)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+april deposit                            31-May-18 $  (5572.27)
+DN                                       31-May-18 $   1277.67
+DN                                       31-May-18 $   4479.06
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.892464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

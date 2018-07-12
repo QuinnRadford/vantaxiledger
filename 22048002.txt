@@ -1,0 +1,40 @@
+Account Summary For Grewal Gurinderjit 517742 Cab 048N
+Account Number: 22048002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   2511.80
+INCOME
+  Lease:                                           $    820.00
+  Envelopes:                                       $   1704.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   2524.00
+TOTAL EXPENSE:                                     $   1504.42
+BALANCE:                                           $   3531.38
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT48 Night Tuesday - ID 977981  PAT   TU  1-May-18 $     80.00
+VT48 Night Wednesday - ID 977981  PAT     2-May-18 $     85.00
+VT48 Night Tuesday - ID 977981  PAT   TU  8-May-18 $     80.00
+VT48 Night Wednesday - ID 977981  PAT     9-May-18 $     85.00
+VT48 Night Tuesday - ID 977981  PAT   TU 15-May-18 $     80.00
+VT48 Night Wednesday - ID 977981  PAT    16-May-18 $     85.00
+VT48 Night Tuesday - ID 977981  PAT   TU 22-May-18 $     80.00
+VT48 Night Wednesday - ID 977981  PAT    23-May-18 $     85.00
+VT48 Night Sunday - ID 8495  LOVEJEET BA 27-May-18 $     80.00
+VT48 Night Tuesday - ID 977981  PAT   TU 29-May-18 $     80.00
+Insurance                                31-May-18 $  (1017.57)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $     54.40
+31-May                                   31-May-18 $   1649.60
+april deposit                            31-May-18 $  (1375.90)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.899464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

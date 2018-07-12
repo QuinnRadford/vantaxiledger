@@ -1,0 +1,43 @@
+Account Summary For Kallu Harbans (617) Cab 099D
+Account Number: 22099001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   2842.16
+INCOME
+  Lease:                                           $   1045.00
+  Envelopes:                                       $   2165.50
+  Other Credits:                                   $   1139.85
+TOTAL INCOME:                                      $   4350.35
+TOTAL EXPENSE:                                     $   1528.55
+BALANCE:                                           $   5663.96
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT99 Day Wednesday - ID 711  RAJEEV   VA 16-May-18 $     95.00
+VT99 Day Thursday - ID 711  RAJEEV   VAS 17-May-18 $     95.00
+VT99 Day Friday - ID 711  RAJEEV   VASHI 18-May-18 $     95.00
+VT99 Day Sunday - ID 711  RAJEEV   VASHI 20-May-18 $     95.00
+VT99 Day Wednesday - ID 711  RAJEEV   VA 23-May-18 $     95.00
+VT99 Day Thursday - ID 711  RAJEEV   VAS 24-May-18 $     95.00
+VT99 Day Friday - ID 711  RAJEEV   VASHI 25-May-18 $     95.00
+VT99 Day Monday - ID 711  RAJEEV   VASHI 28-May-18 $     95.00
+VT99 Day Tuesday - ID 711  RAJEEV   VASH 29-May-18 $     95.00
+VT99 Day Wednesday - ID 711  RAJEEV   VA 30-May-18 $     95.00
+Insurance                                31-May-18 $  (1009.92)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT99 Day Thursday - ID 711  RAJEEV   VAS 31-May-18 $     95.00
+29-May                                   31-May-18 $    240.20
+29-May                                   31-May-18 $   1925.30
+april deposit                            31-May-18 $  (1433.58)
+DN                                       31-May-18 $    (31.78)
+214 - 99/107                             31-May-18 $   1139.85
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.931464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

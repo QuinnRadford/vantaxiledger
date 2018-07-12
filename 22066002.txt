@@ -1,0 +1,59 @@
+Account Summary For Pandher Davinder (86052) Cab 66N
+Account Number: 22066002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   3960.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3960.00
+TOTAL EXPENSE:                                     $   3960.00
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT66 Night Tuesday - ID 905839  BALWINDE  1-May-18 $     95.00
+VT66 Night Wednesday - ID 441819  GURJIN  2-May-18 $    100.00
+VT66 Night Thursday - ID 905839  BALWIND  3-May-18 $    120.00
+VT66 Night Friday - ID 905839  BALWINDER  4-May-18 $    200.00
+VT66 Night Saturday - ID 905839  BALWIND  5-May-18 $    200.00
+VT66 Night Sunday - ID 905839  BALWINDER  6-May-18 $     95.00
+VT66 Night Monday - ID 905839  BALWINDER  7-May-18 $     95.00
+VT66 Night Tuesday - ID 905839  BALWINDE  8-May-18 $     95.00
+VT66 Night Wednesday - ID 441819  GURJIN  9-May-18 $    100.00
+VT66 Night Thursday - ID 905839  BALWIND 10-May-18 $    120.00
+VT66 Night Friday - ID 905839  BALWINDER 11-May-18 $    200.00
+VT66 Night Saturday - ID 905839  BALWIND 12-May-18 $    200.00
+VT66 Night Sunday - ID 905839  BALWINDER 13-May-18 $     95.00
+VT66 Night Monday - ID 905839  BALWINDER 14-May-18 $     95.00
+VT66 Night Tuesday - ID 905839  BALWINDE 15-May-18 $     95.00
+VT66 Night Wednesday - ID 441819  GURJIN 16-May-18 $    100.00
+VT66 Night Thursday - ID 905839  BALWIND 17-May-18 $    120.00
+VT66 Night Friday - ID 905839  BALWINDER 18-May-18 $    200.00
+VT66 Night Saturday - ID 905839  BALWIND 19-May-18 $    200.00
+VT66 Night Sunday - ID 905839  BALWINDER 20-May-18 $    120.00
+VT66 Night Monday - ID 905839  BALWINDER 21-May-18 $     95.00
+VT66 Night Tuesday - ID 905839  BALWINDE 22-May-18 $     95.00
+VT66 Night Wednesday - ID 441819  GURJIN 23-May-18 $    100.00
+VT66 Night Thursday - ID 905839  BALWIND 24-May-18 $    120.00
+VT66 Night Friday - ID 905839  BALWINDER 25-May-18 $    200.00
+VT66 Night Saturday - ID 905839  BALWIND 26-May-18 $    200.00
+VT66 Night Sunday - ID 905839  BALWINDER 27-May-18 $     95.00
+VT66 Night Monday - ID 905839  BALWINDER 28-May-18 $     95.00
+VT66 Night Tuesday - ID 905839  BALWINDE 29-May-18 $     95.00
+VT66 Night Wednesday - ID 441819  GURJIN 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1109.57)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT66 Night Thursday - ID 905839  BALWIND 31-May-18 $    120.00
+DN                                       31-May-18 $  (2363.58)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.914464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

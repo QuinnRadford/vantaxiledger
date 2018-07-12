@@ -1,0 +1,35 @@
+Account Summary For Mann Jasbir (191916) Cab 003D
+Account Number: 22003001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3055.52
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   2847.20
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   2847.20
+TOTAL EXPENSE:                                     $   1493.44
+BALANCE:                                           $   4409.28
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1006.59)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+11-May                                   31-May-18 $     33.00
+11-May                                   31-May-18 $     14.00
+11-May                                   31-May-18 $    903.30
+30-May                                   31-May-18 $     33.00
+30-May                                   31-May-18 $    672.70
+31-May                                   31-May-18 $     13.50
+31-May                                   31-May-18 $   1177.70
+april deposit                            31-May-18 $  (1527.76)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.845464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

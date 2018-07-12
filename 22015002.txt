@@ -1,0 +1,56 @@
+Account Summary For Mankeerat Aujla (9540) Cab 015N
+Account Number: 22015002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   3570.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3570.00
+TOTAL EXPENSE:                                     $   3570.00
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT15 Night Tuesday - ID 9540  MANKEERAT   1-May-18 $     95.00
+VT15 Night Wednesday - ID 12280  BALVIND  2-May-18 $    100.00
+VT15 Night Thursday - ID 9540  MANKEERAT  3-May-18 $    120.00
+VT15 Night Friday - ID 9540  MANKEERAT A  4-May-18 $    200.00
+VT15 Night Saturday - ID 9540  MANKEERAT  5-May-18 $    200.00
+VT15 Night Sunday - ID 9540  MANKEERAT A  6-May-18 $     95.00
+VT15 Night Monday - ID 949  MUHAMMAD IDR  7-May-18 $     95.00
+VT15 Night Tuesday - ID 9540  MANKEERAT   8-May-18 $     95.00
+VT15 Night Wednesday - ID 9540  MANKEERA  9-May-18 $    100.00
+VT15 Night Thursday - ID 9540  MANKEERAT 10-May-18 $    120.00
+VT15 Night Friday - ID 12280  BALVINDER  11-May-18 $    200.00
+VT15 Night Saturday - ID 9540  MANKEERAT 12-May-18 $    200.00
+VT15 Night Sunday - ID 9540  MANKEERAT A 13-May-18 $     95.00
+VT15 Night Tuesday - ID 9540  MANKEERAT  15-May-18 $     95.00
+VT15 Night Wednesday - ID 12280  BALVIND 16-May-18 $    100.00
+VT15 Night Thursday - ID 9540  MANKEERAT 17-May-18 $    120.00
+VT15 Night Friday - ID 9540  MANKEERAT A 18-May-18 $    200.00
+VT15 Night Saturday - ID 9540  MANKEERAT 19-May-18 $    200.00
+VT15 Night Sunday - ID 9540  MANKEERAT A 20-May-18 $    120.00
+VT15 Night Monday - ID 9540  MANKEERAT A 21-May-18 $     95.00
+VT15 Night Tuesday - ID 9540  MANKEERAT  22-May-18 $     95.00
+VT15 Night Wednesday - ID 12280  BALVIND 23-May-18 $    100.00
+VT15 Night Thursday - ID 12280  BALVINDE 24-May-18 $    120.00
+VT15 Night Friday - ID 12280  BALVINDER  25-May-18 $    200.00
+VT15 Night Monday - ID 9540  MANKEERAT A 28-May-18 $     95.00
+VT15 Night Tuesday - ID 9540  MANKEERAT  29-May-18 $     95.00
+VT15 Night Wednesday - ID 9540  MANKEERA 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1029.48)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT15 Night Thursday - ID 9540  MANKEERAT 31-May-18 $    120.00
+DN                                       31-May-18 $  (2053.67)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.858464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

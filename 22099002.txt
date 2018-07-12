@@ -1,0 +1,37 @@
+Account Summary For Kallu Harbans (617) Cab 99N
+Account Number: 22099002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2142.86
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $     31.78
+TOTAL INCOME:                                      $   2174.64
+TOTAL EXPENSE:                                     $   2174.64
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+Weekly license fee for 99N Mansour Khali  7-May-18 $    600.00
+Weekly license fee for 99N Mansour Khali 14-May-18 $    600.00
+Weekly license fee for 99N Mansour Khali 21-May-18 $    600.00
+Weekly license fee for 99N Mansour Khali 28-May-18 $    600.00
+Weekly license fee for 99N Mansour Khali 28-May-18 $   (257.14)
+Insurance                                31-May-18 $  (1009.93)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+Transfer for Mohod Emrani Shift on 99N 2 31-May-18 $   (120.00)
+Transfer for Refaat Bashir Shift 04/26/1 31-May-18 $   (120.00)
+Transfer for Refaat Bashir Shift 04/26/1 31-May-18 $    (95.00)
+Lease adjustment mansour khalil did not  31-May-18 $   (342.86)
+DN                                       31-May-18 $     31.78
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.931464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

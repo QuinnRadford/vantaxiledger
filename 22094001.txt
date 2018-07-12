@@ -1,0 +1,42 @@
+Account Summary For Kadir Yousif (904580) Cab 094D
+Account Number: 22094001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3373.36
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   3239.12
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3239.12
+TOTAL EXPENSE:                                     $   1448.13
+BALANCE:                                           $   5164.35
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (961.28)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+9-May                                    31-May-18 $    135.25
+9-May                                    31-May-18 $     61.00
+9-May                                    31-May-18 $    624.40
+16-May                                   31-May-18 $     72.80
+16-May                                   31-May-18 $      8.00
+16-May                                   31-May-18 $    640.35
+22-May                                   31-May-18 $     66.40
+22-May                                   31-May-18 $     24.00
+22-May                                   31-May-18 $    678.00
+28-May                                   31-May-18 $     86.00
+28-May                                   31-May-18 $     11.00
+28-May                                   31-May-18 $    640.92
+31-May                                   31-May-18 $     20.50
+31-May                                   31-May-18 $    170.50
+april deposit                            31-May-18 $  (1686.68)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.928464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

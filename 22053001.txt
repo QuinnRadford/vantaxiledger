@@ -1,0 +1,34 @@
+Account Summary For Abdollahi Abdolghasem Cab 53D
+Account Number: 22053001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   9207.69
+  Other Credits:                                   $  (6316.16)
+TOTAL INCOME:                                      $   2891.53
+TOTAL EXPENSE:                                     $   2891.53
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (989.68)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $    222.40
+31-May                                   31-May-18 $     60.00
+31-May                                   31-May-18 $   5669.01
+31-May                                   31-May-18 $   3256.28
+LEASE ADJUSTMENT                         31-May-18 $   (750.00)
+LEASE ADJUSTMENT                         31-May-18 $   (665.00)
+TRANSFER                                 31-May-18 $  (6316.16)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.902464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,58 @@
+Account Summary For Sidhu B (911111) Cab 071D
+Account Number: 22071001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2465.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $    254.10
+TOTAL INCOME:                                      $   2719.10
+TOTAL EXPENSE:                                     $   2719.10
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT71 Day Tuesday - ID 506103  GURMAIL     1-May-18 $     85.00
+VT71 Day Wednesday - ID 506103  GURMAIL   2-May-18 $     85.00
+VT71 Day Friday - ID 506103  GURMAIL   G  4-May-18 $     85.00
+VT71 Day Saturday - ID 506103  GURMAIL    5-May-18 $     85.00
+VT71 Day Sunday - ID 506103  GURMAIL   G  6-May-18 $     85.00
+VT71 Day Monday - ID 506103  GURMAIL   G  7-May-18 $     85.00
+VT71 Day Tuesday - ID 506103  GURMAIL     8-May-18 $     85.00
+VT71 Day Wednesday - ID 506103  GURMAIL   9-May-18 $     85.00
+VT71 Day Thursday - ID 506103  GURMAIL   10-May-18 $     85.00
+VT71 Day Friday - ID 506103  GURMAIL   G 11-May-18 $     85.00
+VT71 Day Saturday - ID 506103  GURMAIL   12-May-18 $     85.00
+VT71 Day Sunday - ID 506103  GURMAIL   G 13-May-18 $     85.00
+VT71 Day Monday - ID 506103  GURMAIL   G 14-May-18 $     85.00
+VT71 Day Tuesday - ID 506103  GURMAIL    15-May-18 $     85.00
+VT71 Day Wednesday - ID 506103  GURMAIL  16-May-18 $     85.00
+VT71 Day Thursday - ID 506103  GURMAIL   17-May-18 $     85.00
+VT71 Day Friday - ID 506103  GURMAIL   G 18-May-18 $     85.00
+VT71 Day Saturday - ID 506103  GURMAIL   19-May-18 $     85.00
+VT71 Day Monday - ID 506103  GURMAIL   G 21-May-18 $     85.00
+VT71 Day Tuesday - ID 506103  GURMAIL    22-May-18 $     85.00
+VT71 Day Wednesday - ID 506103  GURMAIL  23-May-18 $     85.00
+VT71 Day Thursday - ID 506103  GURMAIL   24-May-18 $     85.00
+VT71 Day Friday - ID 506103  GURMAIL   G 25-May-18 $     85.00
+VT71 Day Saturday - ID 506103  GURMAIL   26-May-18 $     85.00
+VT71 Day Sunday - ID 506103  GURMAIL   G 27-May-18 $     85.00
+VT71 Day Monday - ID 506103  GURMAIL   G 28-May-18 $     85.00
+VT71 Day Tuesday - ID 506103  GURMAIL    29-May-18 $     85.00
+VT71 Day Wednesday - ID 506103  GURMAIL  30-May-18 $     85.00
+Insurance                                31-May-18 $   (988.74)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT71 Day Thursday - ID 506103  GURMAIL   31-May-18 $     85.00
+TRANSFER                                 31-May-18 $    254.10
+may balance                              31-May-18 $  (1243.51)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.917464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

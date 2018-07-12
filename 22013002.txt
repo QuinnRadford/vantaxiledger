@@ -1,0 +1,54 @@
+Account Summary For Gill Malkit (297425) Cab 013N
+Account Number: 22013002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   4743.42
+INCOME
+  Lease:                                           $   1570.00
+  Envelopes:                                       $   3548.89
+  Other Credits:                                   $   1610.00
+TOTAL INCOME:                                      $   6728.89
+TOTAL EXPENSE:                                     $   1516.34
+BALANCE:                                           $   9955.97
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT13 Night Tuesday - ID 4456  BALLEY   S  1-May-18 $     95.00
+VT13 Night Wednesday - ID 4456  BALLEY    2-May-18 $    100.00
+VT13 Night Monday - ID 4456  BALLEY   SH  7-May-18 $     95.00
+VT13 Night Tuesday - ID 4456  BALLEY   S  8-May-18 $     95.00
+VT13 Night Wednesday - ID 4456  BALLEY    9-May-18 $    100.00
+VT13 Night Sunday - ID 4456  BALLEY   SH 13-May-18 $     95.00
+VT13 Night Tuesday - ID 4456  BALLEY   S 15-May-18 $     95.00
+VT13 Night Wednesday - ID 4456  BALLEY   16-May-18 $    100.00
+VT13 Night Sunday - ID 4456  BALLEY   SH 20-May-18 $    120.00
+VT13 Night Monday - ID 4456  BALLEY   SH 21-May-18 $     95.00
+VT13 Night Tuesday - ID 4456  BALLEY   S 22-May-18 $     95.00
+VT13 Night Wednesday - ID 4456  BALLEY   23-May-18 $    100.00
+VT13 Night Sunday - ID 4456  BALLEY   SH 27-May-18 $     95.00
+VT13 Night Monday - ID 4456  BALLEY   SH 28-May-18 $     95.00
+VT13 Night Tuesday - ID 4456  BALLEY   S 29-May-18 $     95.00
+VT13 Night Wednesday - ID 4456  BALLEY   30-May-18 $    100.00
+Insurance                                31-May-18 $  (1029.49)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+14-May                                   31-May-18 $     26.40
+14-May                                   31-May-18 $     31.00
+14-May                                   31-May-18 $   1765.90
+22-May                                   31-May-18 $    744.84
+28-May                                   31-May-18 $     12.00
+28-May                                   31-May-18 $     10.00
+28-May                                   31-May-18 $    739.10
+31-May                                   31-May-18 $     36.70
+31-May                                   31-May-18 $    182.95
+april deposit                            31-May-18 $  (2371.71)
+Malkiat Gill was charges 1610 lease on 7 31-May-18 $   1610.00
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.857464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

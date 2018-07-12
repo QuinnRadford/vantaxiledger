@@ -1,0 +1,49 @@
+Account Summary For Keshavarzi-B M (691631) Cab 216N
+Account Number: 22216002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   9541.98
+INCOME
+  Lease:                                           $   2675.00
+  Envelopes:                                       $   2569.97
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5244.97
+TOTAL EXPENSE:                                     $   1775.62
+BALANCE:                                           $  13011.33
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT216 Night Tuesday - ID 81975  HOSAIN H  1-May-18 $     95.00
+VT216 Night Thursday - ID 900555  NAEEMU  3-May-18 $    120.00
+VT216 Night Friday - ID 650842  SHER  DH  4-May-18 $    200.00
+VT216 Night Saturday - ID 650842  SHER    5-May-18 $    200.00
+VT216 Night Tuesday - ID 81975  HOSAIN H  8-May-18 $     95.00
+VT216 Night Thursday - ID 81975  HOSAIN  10-May-18 $    120.00
+VT216 Night Friday - ID 599614  IVO   KO 11-May-18 $    200.00
+VT216 Night Saturday - ID 599614  IVO    12-May-18 $    200.00
+VT216 Night Tuesday - ID 81975  HOSAIN H 15-May-18 $     95.00
+VT216 Night Thursday - ID 81975  HOSAIN  17-May-18 $    120.00
+VT216 Night Friday - ID 599614  IVO   KO 18-May-18 $    200.00
+VT216 Night Saturday - ID 599614  IVO    19-May-18 $    200.00
+VT216 Night Tuesday - ID 81975  HOSAIN H 22-May-18 $     95.00
+VT216 Night Thursday - ID 81975  HOSAIN  24-May-18 $    120.00
+VT216 Night Friday - ID 599614  IVO   KO 25-May-18 $    200.00
+VT216 Night Saturday - ID 420198  GURJAP 26-May-18 $    200.00
+VT216 Night Tuesday - ID 81975  HOSAIN H 29-May-18 $     95.00
+Insurance                                31-May-18 $  (1045.97)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+31-May                                   31-May-18 $   2569.97
+april deposit                            31-May-18 $  (4770.99)
+VT216 Night Thursday - ID 8060  MOHAMMAD 31-May-18 $    120.00
+KHAN NAEMULLAH INSF BALANCE 216          31-May-18 $   (120.00)
+MOHAMMAD ANSARI INSF BALANCE 67 100 42 5 31-May-18 $   (120.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.966464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

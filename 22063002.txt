@@ -1,0 +1,50 @@
+Account Summary For Gama Angello (213739) Cab 63N
+Account Number: 22063002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2765.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $  (1232.65)
+TOTAL INCOME:                                      $   1532.35
+TOTAL EXPENSE:                                     $   1532.35
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT63 Night Wednesday - ID 669030  AKRM    2-May-18 $    100.00
+VT63 Night Friday - ID 669030  AKRM   NA  4-May-18 $    200.00
+VT63 Night Sunday - ID 669030  AKRM   NA  6-May-18 $     95.00
+VT63 Night Monday - ID 669030  AKRM   NA  7-May-18 $     95.00
+VT63 Night Wednesday - ID 669030  AKRM    9-May-18 $    100.00
+VT63 Night Thursday - ID 669030  AKRM    10-May-18 $    120.00
+VT63 Night Friday - ID 669030  AKRM   NA 11-May-18 $    200.00
+VT63 Night Sunday - ID 669030  AKRM   NA 13-May-18 $     95.00
+VT63 Night Monday - ID 669030  AKRM   NA 14-May-18 $     95.00
+VT63 Night Wednesday - ID 669030  AKRM   16-May-18 $    100.00
+VT63 Night Thursday - ID 669030  AKRM    17-May-18 $    120.00
+VT63 Night Friday - ID 669030  AKRM   NA 18-May-18 $    200.00
+VT63 Night Sunday - ID 669030  AKRM   NA 20-May-18 $    120.00
+VT63 Night Monday - ID 669030  AKRM   NA 21-May-18 $     95.00
+VT63 Night Wednesday - ID 669030  AKRM   23-May-18 $    100.00
+VT63 Night Thursday - ID 669030  AKRM    24-May-18 $    120.00
+VT63 Night Friday - ID 669030  AKRM   NA 25-May-18 $    200.00
+VT63 Night Saturday - ID 719822  GORAN   26-May-18 $    200.00
+VT63 Night Sunday - ID 669030  AKRM   NA 27-May-18 $     95.00
+VT63 Night Monday - ID 669030  AKRM   NA 28-May-18 $     95.00
+VT63 Night Wednesday - ID 669030  AKRM   30-May-18 $    100.00
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT63 Night Thursday - ID 669030  AKRM    31-May-18 $    120.00
+TRANSFERS                                31-May-18 $  (1232.65)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.913464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

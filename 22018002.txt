@@ -1,0 +1,38 @@
+Account Summary For KDMS Investments Cab 018N
+Account Number: 22018002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   1100.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $    416.34
+TOTAL INCOME:                                      $   1516.34
+TOTAL EXPENSE:                                     $   1516.34
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT18 Night Wednesday - ID 30245  ANGUS    2-May-18 $    100.00
+VT18 Night Thursday - ID 30245  ANGUS     3-May-18 $    120.00
+VT18 Night Wednesday - ID 30245  ANGUS    9-May-18 $    100.00
+VT18 Night Thursday - ID 30245  ANGUS    10-May-18 $    120.00
+VT18 Night Wednesday - ID 30245  ANGUS   16-May-18 $    100.00
+VT18 Night Thursday - ID 30245  ANGUS    17-May-18 $    120.00
+VT18 Night Wednesday - ID 30245  ANGUS   23-May-18 $    100.00
+VT18 Night Thursday - ID 30245  ANGUS    24-May-18 $    120.00
+VT18 Night Wednesday - ID 30245  ANGUS   30-May-18 $    100.00
+Insurance                                31-May-18 $  (1029.49)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT18 Night Thursday - ID 30245  ANGUS    31-May-18 $    120.00
+DN                                       31-May-18 $    416.34
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.861464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

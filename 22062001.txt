@@ -1,0 +1,38 @@
+Account Summary For Aulakh Gursahib (808278) Cab 062D
+Account Number: 22062001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   6930.98
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   5698.17
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5698.17
+TOTAL EXPENSE:                                     $   1690.62
+BALANCE:                                           $  10938.53
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1013.77)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+4-May                                    31-May-18 $    280.90
+4-May                                    31-May-18 $     26.00
+4-May                                    31-May-18 $   1780.68
+14-May                                   31-May-18 $    124.60
+14-May                                   31-May-18 $     22.00
+14-May                                   31-May-18 $   1635.74
+22-May                                   31-May-18 $    247.90
+22-May                                   31-May-18 $     18.00
+22-May                                   31-May-18 $   1562.35
+april deposit                            31-May-18 $  (3465.49)
+GURSAHIB AULAKH LEASE                    31-May-18 $   (190.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.911464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

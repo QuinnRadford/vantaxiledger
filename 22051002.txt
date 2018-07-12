@@ -1,0 +1,32 @@
+Account Summary For Dhanoya I (60186) Cab 051N
+Account Number: 22051002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2890.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $  (1322.65)
+TOTAL INCOME:                                      $   1567.35
+TOTAL EXPENSE:                                     $   1567.35
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+West Coast Meter Service Ltd.            10-May-18 $    (67.20)
+Insurance                                31-May-18 $  (1013.30)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT51 Night Thursday - ID 74243  MOHAMED  31-May-18 $    100.00
+TRANSFER                                 31-May-18 $  (1457.65)
+INDER D LEASE                            31-May-18 $   2790.00
+HOLDING TO INDER                         31-May-18 $    135.00
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.902464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

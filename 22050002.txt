@@ -1,0 +1,33 @@
+Account Summary For Sunner Jaspal (62141) Cab 050N
+Account Number: 22050002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5501.70
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   4923.47
+  Other Credits:                                   $    533.77
+TOTAL INCOME:                                      $   5457.24
+TOTAL EXPENSE:                                     $   1476.53
+BALANCE:                                           $   9482.41
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (989.68)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+22-May                                   31-May-18 $    145.45
+22-May                                   31-May-18 $   3109.47
+31-May                                   31-May-18 $     37.00
+31-May                                   31-May-18 $   1631.55
+april deposit                            31-May-18 $  (2750.85)
+224 - 50N                                31-May-18 $    533.77
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.901464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

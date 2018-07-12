@@ -1,0 +1,37 @@
+Account Summary For Frank Amidi ( 764256) Cab 001N
+Account Number: 22001002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   1005.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $    491.78
+TOTAL INCOME:                                      $   1496.78
+TOTAL EXPENSE:                                     $   1496.78
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT1 Night Thursday - ID 13860  BOON AW    3-May-18 $    120.00
+VT1 Night Sunday - ID 13860  BOON AW      6-May-18 $     95.00
+VT1 Night Thursday - ID 13860  BOON AW   10-May-18 $    120.00
+VT1 Night Sunday - ID 13860  BOON AW     13-May-18 $     95.00
+VT1 Night Thursday - ID 13860  BOON AW   17-May-18 $    120.00
+VT1 Night Sunday - ID 13860  BOON AW     20-May-18 $    120.00
+VT1 Night Thursday - ID 13860  BOON AW   24-May-18 $    120.00
+VT1 Night Sunday - ID 13860  BOON AW     27-May-18 $     95.00
+Insurance                                31-May-18 $  (1009.93)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT1 Night Thursday - ID 13860  BOON AW   31-May-18 $    120.00
+DN                                       31-May-18 $    491.78
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.841464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

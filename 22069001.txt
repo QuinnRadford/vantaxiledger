@@ -1,0 +1,49 @@
+Account Summary For Gill Ajmer (72321) Cab 069D
+Account Number: 22069001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  19831.10
+INCOME
+  Lease:                                           $   1710.00
+  Envelopes:                                       $   5639.36
+  Other Credits:                                   $    547.65
+TOTAL INCOME:                                      $   7897.01
+TOTAL EXPENSE:                                     $   1721.35
+BALANCE:                                           $  26006.76
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT69 Day Thursday - ID 47034  Keith HARN  3-May-18 $     95.00
+VT69 Day Friday - ID 47034  Keith HARNDE  4-May-18 $     95.00
+VT69 Day Sunday - ID 47034  Keith HARNDE  6-May-18 $     95.00
+VT69 Day Monday - ID 47034  Keith HARNDE  7-May-18 $     95.00
+VT69 Day Thursday - ID 47034  Keith HARN 10-May-18 $     95.00
+VT69 Day Friday - ID 47034  Keith HARNDE 11-May-18 $     95.00
+VT69 Day Sunday - ID 47034  Keith HARNDE 13-May-18 $     95.00
+VT69 Day Thursday - ID 47034  Keith HARN 17-May-18 $     95.00
+VT69 Day Friday - ID 47034  Keith HARNDE 18-May-18 $     95.00
+VT69 Day Sunday - ID 47034  Keith HARNDE 20-May-18 $     95.00
+VT69 Day Monday - ID 47034  Keith HARNDE 21-May-18 $     95.00
+VT69 Day Wednesday - ID 47034  Keith HAR 23-May-18 $     95.00
+VT69 Day Thursday - ID 47034  Keith HARN 24-May-18 $     95.00
+VT69 Day Friday - ID 47034  Keith HARNDE 25-May-18 $     95.00
+VT69 Day Sunday - ID 47034  Keith HARNDE 27-May-18 $     95.00
+VT69 Day Monday - ID 47034  Keith HARNDE 28-May-18 $     95.00
+VT69 Day Wednesday - ID 47034  Keith HAR 30-May-18 $     95.00
+                                         30-May-18 $  (9915.55)
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT69 Day Thursday - ID 47034  Keith HARN 31-May-18 $     95.00
+31-May                                   31-May-18 $   5639.36
+712 - 69D                                31-May-18 $   (189.00)
+DN                                       31-May-18 $    547.65
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.916464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

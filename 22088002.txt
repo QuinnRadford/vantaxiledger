@@ -1,0 +1,43 @@
+Account Summary For Badwal Gurmeet (694773) Cab 088N
+Account Number: 22088002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  11742.02
+INCOME
+  Lease:                                           $    405.00
+  Envelopes:                                       $   5502.37
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5907.37
+TOTAL EXPENSE:                                     $   2980.95
+BALANCE:                                           $  14668.44
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT88 Night Sunday - ID 12280  BALVINDER  13-May-18 $     95.00
+VT88 Night Monday - ID 12280  BALVINDER  14-May-18 $     95.00
+VT88 Night Sunday - ID 12280  BALVINDER  20-May-18 $    120.00
+VT88 Night Monday - ID 12280  BALVINDER  28-May-18 $     95.00
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+9-May                                    31-May-18 $     46.50
+9-May                                    31-May-18 $     30.00
+9-May                                    31-May-18 $   1157.60
+23-May                                   31-May-18 $     44.30
+23-May                                   31-May-18 $   2259.27
+29-May                                   31-May-18 $     58.70
+29-May                                   31-May-18 $   1182.70
+31-May                                   31-May-18 $     30.80
+31-May                                   31-May-18 $      9.00
+31-May                                   31-May-18 $    683.50
+april deposit                            31-May-18 $  (5811.01)
+88-46 balance transfer                   31-May-18 $  (1448.60)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.925464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

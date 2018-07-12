@@ -1,0 +1,37 @@
+Account Summary For Sidhu Gopal (7580) Cab 035N
+Account Number: 22035002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   6430.44
+INCOME
+  Lease:                                           $    260.00
+  Envelopes:                                       $   5940.04
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   6200.04
+TOTAL EXPENSE:                                     $   1534.23
+BALANCE:                                           $  11096.25
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT35 Night Tuesday - ID 3038  CHAMKAUR S  1-May-18 $     80.00
+West Coast Meter Service Ltd.            10-May-18 $    (25.20)
+VT35 Night Tuesday - ID 3038  CHAMKAUR S 15-May-18 $     80.00
+Insurance                                31-May-18 $  (1022.18)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT35 Night Thursday - ID 3043  BARJINDER 31-May-18 $    100.00
+31-May                                   31-May-18 $    113.10
+31-May                                   31-May-18 $    190.90
+31-May                                   31-May-18 $    130.70
+31-May                                   31-May-18 $     41.00
+31-May                                   31-May-18 $   5464.34
+april deposit                            31-May-18 $  (3215.22)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.881464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

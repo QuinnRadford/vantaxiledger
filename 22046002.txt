@@ -1,0 +1,28 @@
+Account Summary For Badwal G (694773) Cab 046N
+Account Number: 22046002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   1448.60
+TOTAL INCOME:                                      $   1448.60
+TOTAL EXPENSE:                                     $   1448.60
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (961.75)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+88-46 balance transfer                   31-May-18 $   1448.60
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.896464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,29 @@
+Account Summary For Rana Shamim (99120) Cab 222N
+Account Number: 22222002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3641.22
+INCOME
+  Lease:                                           $     95.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $     95.00
+TOTAL EXPENSE:                                     $   1518.67
+BALANCE:                                           $   2217.55
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT222 Night Tuesday - ID 68694  SANTOKH   8-May-18 $     95.00
+Insurance                                31-May-18 $  (1029.02)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+april deposit                            31-May-18 $  (1820.61)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.971464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

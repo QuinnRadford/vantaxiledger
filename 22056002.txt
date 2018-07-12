@@ -1,0 +1,32 @@
+Account Summary For Grewal Rav (238831) Cab 56N
+Account Number: 22056002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5574.08
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   4230.26
+  Other Credits:                                   $    548.57
+TOTAL INCOME:                                      $   4778.83
+TOTAL EXPENSE:                                     $   1449.84
+BALANCE:                                           $   8903.07
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (962.99)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $    164.30
+31-May                                   31-May-18 $     40.00
+31-May                                   31-May-18 $   4025.96
+april deposit                            31-May-18 $  (2787.04)
+214 - 56N                                31-May-18 $    548.57
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.906464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

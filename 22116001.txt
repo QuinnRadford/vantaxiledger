@@ -1,0 +1,38 @@
+Account Summary For Lee Paul (947212) Cab 116D
+Account Number: 22116001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3408.82
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   3666.35
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3666.35
+TOTAL EXPENSE:                                     $   1664.39
+BALANCE:                                           $   5410.78
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (987.54)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+7-May                                    31-May-18 $    155.10
+7-May                                    31-May-18 $     30.00
+7-May                                    31-May-18 $    461.30
+28-May                                   31-May-18 $    434.90
+28-May                                   31-May-18 $    119.00
+28-May                                   31-May-18 $   1649.45
+31-May                                   31-May-18 $    189.10
+31-May                                   31-May-18 $     10.00
+31-May                                   31-May-18 $    617.50
+april deposit                            31-May-18 $  (1704.41)
+LEE PAUL LEASE                           31-May-18 $   (190.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.942464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

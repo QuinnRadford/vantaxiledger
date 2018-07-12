@@ -1,0 +1,30 @@
+Account Summary For Rana B (498595) Cab 231D
+Account Number: 22231001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $    375.15
+INCOME
+  Lease:                                           $    760.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   3674.70
+TOTAL INCOME:                                      $   4434.70
+TOTAL EXPENSE:                                     $   5854.85
+BALANCE:                                           $  (1045.00)
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+DN                                       31-May-18 $   3674.70
+may transfer                             31-May-18 $  (4319.70)
+Vasir 231                                31-May-18 $    760.00
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.977464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

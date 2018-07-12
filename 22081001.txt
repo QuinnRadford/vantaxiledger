@@ -1,0 +1,31 @@
+Account Summary For Motlagh Hashem Labani Cab 081D
+Account Number: 22081001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5236.00
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   4972.98
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   4972.98
+TOTAL EXPENSE:                                     $   1477.72
+BALANCE:                                           $   8731.26
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (990.87)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+25-May                                   31-May-18 $    234.60
+25-May                                   31-May-18 $    111.00
+25-May                                   31-May-18 $   4627.38
+april deposit                            31-May-18 $  (2618.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.923464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

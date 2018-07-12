@@ -1,0 +1,51 @@
+Account Summary For Abdollahi Abdolghasem Cab 210D
+Account Number: 22210001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2185.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   (649.85)
+TOTAL INCOME:                                      $   1535.15
+TOTAL EXPENSE:                                     $   1535.15
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT210 Day Friday - ID 289251  IRINA   CH  4-May-18 $     95.00
+VT210 Day Saturday - ID 289251  IRINA     5-May-18 $     95.00
+VT210 Day Monday - ID 5997  FOROUHAR   R  7-May-18 $     95.00
+VT210 Day Wednesday - ID 289251  IRINA    9-May-18 $     95.00
+VT210 Day Thursday - ID 289251  IRINA    10-May-18 $     95.00
+VT210 Day Friday - ID 289251  IRINA   CH 11-May-18 $     95.00
+VT210 Day Saturday - ID 289251  IRINA    12-May-18 $     95.00
+VT210 Day Sunday - ID 289251  IRINA   CH 13-May-18 $     95.00
+VT210 Day Monday - ID 32267  NATALIA KHO 14-May-18 $     95.00
+VT210 Day Wednesday - ID 289251  IRINA   16-May-18 $     95.00
+VT210 Day Thursday - ID 289251  IRINA    17-May-18 $     95.00
+VT210 Day Friday - ID 289251  IRINA   CH 18-May-18 $     95.00
+VT210 Day Saturday - ID 289251  IRINA    19-May-18 $     95.00
+VT210 Day Monday - ID 7093  BRIAN   LOCK 21-May-18 $     95.00
+VT210 Day Wednesday - ID 289251  IRINA   23-May-18 $     95.00
+VT210 Day Thursday - ID 289251  IRINA    24-May-18 $     95.00
+VT210 Day Friday - ID 289251  IRINA   CH 25-May-18 $     95.00
+VT210 Day Saturday - ID 289251  IRINA    26-May-18 $     95.00
+VT210 Day Sunday - ID 289251  IRINA   CH 27-May-18 $     95.00
+VT210 Day Monday - ID 5997  FOROUHAR   R 28-May-18 $     95.00
+VT210 Day Tuesday - ID 5759  DERK BOS    29-May-18 $     95.00
+VT210 Day Wednesday - ID 289251  IRINA   30-May-18 $     95.00
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT210 Day Thursday - ID 289251  IRINA    31-May-18 $     95.00
+TRANSFER                                 31-May-18 $   (649.85)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.959464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,32 @@
+Account Summary For Rana B (498595) Cab 200N
+Account Number: 22200002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   3685.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $    120.00
+TOTAL INCOME:                                      $   3805.00
+TOTAL EXPENSE:                                     $   3900.00
+BALANCE:                                           $    (95.00)
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1009.93)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT200 Night Thursday - ID 755623  FARSHA 31-May-18 $    120.00
+Anoj - 200                               31-May-18 $   3565.00
+DN                                       31-May-18 $  (2280.42)
+FARSHAD FARAHANI INSF BALANCE 200        31-May-18 $   (120.00)
+DN                                       31-May-18 $    120.00
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.948464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,54 @@
+Account Summary For Johal D (453877) Cab 067D
+Account Number: 22067001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3903.50
+INCOME
+  Lease:                                           $   1805.00
+  Envelopes:                                       $   3577.91
+  Other Credits:                                   $   1568.24
+TOTAL INCOME:                                      $   6951.15
+TOTAL EXPENSE:                                     $   1973.61
+BALANCE:                                           $   8881.04
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT67 Day Wednesday - ID 50124  Gurpreet   2-May-18 $     95.00
+VT67 Day Saturday - ID 50124  Gurpreet S  5-May-18 $     95.00
+                                          6-May-18 $     95.00
+VT67 Day Monday - ID 50124  Gurpreet Sin  7-May-18 $     95.00
+VT67 Day Tuesday - ID 50124  Gurpreet Si  8-May-18 $     95.00
+VT67 Day Wednesday - ID 50124  Gurpreet   9-May-18 $     95.00
+VT67 Day Friday - ID 50124  Gurpreet Sin 11-May-18 $     95.00
+VT67 Day Monday - ID 50124  Gurpreet Sin 14-May-18 $     95.00
+VT67 Day Wednesday - ID 50124  Gurpreet  16-May-18 $     95.00
+VT67 Day Saturday - ID 50124  Gurpreet S 19-May-18 $     95.00
+VT67 Day Monday - ID 50124  Gurpreet Sin 21-May-18 $     95.00
+VT67 Day Tuesday - ID 50124  Gurpreet Si 22-May-18 $     95.00
+VT67 Day Wednesday - ID 50124  Gurpreet  23-May-18 $     95.00
+VT67 Day Friday - ID 50124  Gurpreet Sin 25-May-18 $     95.00
+VT67 Day Saturday - ID 50124  Gurpreet S 26-May-18 $     95.00
+VT67 Day Sunday - ID 50124  Gurpreet Sin 27-May-18 $     95.00
+VT67 Day Monday - ID 50124  Gurpreet Sin 28-May-18 $     95.00
+VT67 Day Tuesday - ID 50124  Gurpreet Si 29-May-18 $     95.00
+VT67 Day Wednesday - ID 50124  Gurpreet  30-May-18 $     95.00
+Insurance                                31-May-18 $  (1064.76)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+22-May                                   31-May-18 $    160.70
+22-May                                   31-May-18 $      8.00
+22-May                                   31-May-18 $   3409.21
+april deposit                            31-May-18 $  (1951.75)
+GURPREET SINGH INSF BALANCE 67D          31-May-18 $   (327.00)
+212D - 67                                31-May-18 $   1124.85
+DN                                       31-May-18 $    443.39
+TAVINDER JOHAL INSF BALANCE 67D          31-May-18 $    (95.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.915464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

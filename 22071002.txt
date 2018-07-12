@@ -1,0 +1,53 @@
+Account Summary For Sidhu B (911111) Cab 71N
+Account Number: 22071002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2945.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $  (1469.41)
+TOTAL INCOME:                                      $   1475.59
+TOTAL EXPENSE:                                     $   1475.59
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT71 Night Tuesday - ID 2439  ADEEL MAZH  1-May-18 $     80.00
+VT71 Night Wednesday - ID 2439  ADEEL MA  2-May-18 $     85.00
+VT71 Night Thursday - ID 2439  ADEEL MAZ  3-May-18 $    100.00
+VT71 Night Friday - ID 2439  ADEEL MAZHA  4-May-18 $    180.00
+VT71 Night Saturday - ID 2439  ADEEL MAZ  5-May-18 $    180.00
+VT71 Night Sunday - ID 2439  ADEEL MAZHA  6-May-18 $     80.00
+VT71 Night Tuesday - ID 2439  ADEEL MAZH  8-May-18 $     80.00
+VT71 Night Wednesday - ID 2439  ADEEL MA  9-May-18 $     85.00
+VT71 Night Thursday - ID 2439  ADEEL MAZ 10-May-18 $    100.00
+VT71 Night Friday - ID 2439  ADEEL MAZHA 11-May-18 $    180.00
+VT71 Night Saturday - ID 2439  ADEEL MAZ 12-May-18 $    180.00
+VT71 Night Tuesday - ID 2439  ADEEL MAZH 15-May-18 $     80.00
+VT71 Night Wednesday - ID 2439  ADEEL MA 16-May-18 $     85.00
+VT71 Night Friday - ID 2439  ADEEL MAZHA 18-May-18 $    180.00
+VT71 Night Saturday - ID 2439  ADEEL MAZ 19-May-18 $    180.00
+VT71 Night Sunday - ID 2439  ADEEL MAZHA 20-May-18 $    120.00
+VT71 Night Tuesday - ID 2439  ADEEL MAZH 22-May-18 $     80.00
+VT71 Night Wednesday - ID 2439  ADEEL MA 23-May-18 $     85.00
+VT71 Night Thursday - ID 2439  ADEEL MAZ 24-May-18 $    100.00
+VT71 Night Friday - ID 2439  ADEEL MAZHA 25-May-18 $    180.00
+VT71 Night Saturday - ID 2439  ADEEL MAZ 26-May-18 $    180.00
+VT71 Night Monday - ID 2439  ADEEL MAZHA 28-May-18 $     80.00
+VT71 Night Tuesday - ID 2439  ADEEL MAZH 29-May-18 $     80.00
+VT71 Night Wednesday - ID 2439  ADEEL MA 30-May-18 $     85.00
+Insurance                                31-May-18 $   (988.74)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT71 Night Thursday - ID 2439  ADEEL MAZ 31-May-18 $    100.00
+TRANSFER                                 31-May-18 $  (1469.41)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.918464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

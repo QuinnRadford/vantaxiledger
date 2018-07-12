@@ -1,0 +1,59 @@
+Account Summary For Gama A (213739) Cab 063D
+Account Number: 22063001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2565.00
+  Envelopes:                                       $  14714.53
+  Other Credits:                                   $ (15557.18)
+TOTAL INCOME:                                      $   1722.35
+TOTAL EXPENSE:                                     $   1722.35
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT63 Day Tuesday - ID 2100  AMIN  MORADI  1-May-18 $     95.00
+VT63 Day Wednesday - ID 2100  AMIN  MORA  2-May-18 $     95.00
+VT63 Day Thursday - ID 2100  AMIN  MORAD  3-May-18 $     95.00
+VT63 Day Friday - ID 2100  AMIN  MORADI   4-May-18 $     95.00
+VT63 Day Saturday - ID 2100  AMIN  MORAD  5-May-18 $     95.00
+VT63 Day Monday - ID 37739  VINO   NAIDU  7-May-18 $     95.00
+VT63 Day Tuesday - ID 2100  AMIN  MORADI  8-May-18 $     95.00
+VT63 Day Wednesday - ID 2100  AMIN  MORA  9-May-18 $     95.00
+VT63 Day Thursday - ID 2100  AMIN  MORAD 10-May-18 $     95.00
+VT63 Day Friday - ID 2100  AMIN  MORADI  11-May-18 $     95.00
+VT63 Day Saturday - ID 2100  AMIN  MORAD 12-May-18 $     95.00
+VT63 Day Monday - ID 37739  VINO   NAIDU 14-May-18 $     95.00
+VT63 Day Tuesday - ID 2100  AMIN  MORADI 15-May-18 $     95.00
+VT63 Day Wednesday - ID 2100  AMIN  MORA 16-May-18 $     95.00
+VT63 Day Thursday - ID 2100  AMIN  MORAD 17-May-18 $     95.00
+VT63 Day Friday - ID 2100  AMIN  MORADI  18-May-18 $     95.00
+VT63 Day Saturday - ID 2100  AMIN  MORAD 19-May-18 $     95.00
+VT63 Day Monday - ID 37739  VINO   NAIDU 21-May-18 $     95.00
+VT63 Day Tuesday - ID 2100  AMIN  MORADI 22-May-18 $     95.00
+VT63 Day Wednesday - ID 2100  AMIN  MORA 23-May-18 $     95.00
+VT63 Day Thursday - ID 2100  AMIN  MORAD 24-May-18 $     95.00
+VT63 Day Friday - ID 2100  AMIN  MORADI  25-May-18 $     95.00
+VT63 Day Saturday - ID 2100  AMIN  MORAD 26-May-18 $     95.00
+VT63 Day Monday - ID 37739  VINO   NAIDU 28-May-18 $     95.00
+VT63 Day Tuesday - ID 2100  AMIN  MORADI 29-May-18 $     95.00
+VT63 Day Wednesday - ID 2100  AMIN  MORA 30-May-18 $     95.00
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT63 Day Thursday - ID 2100  AMIN  MORAD 31-May-18 $     95.00
+31-May                                   31-May-18 $    623.50
+31-May                                   31-May-18 $     58.00
+31-May                                   31-May-18 $  14033.03
+BOS DERK REFUND APRIL                    31-May-18 $   (190.00)
+TRANSFERS                                31-May-18 $ (15557.18)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.912464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

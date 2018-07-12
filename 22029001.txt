@@ -1,0 +1,44 @@
+Account Summary For Gill Maninder (367752) Cab 029D
+Account Number: 22029001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   1484.36
+INCOME
+  Lease:                                           $   1140.00
+  Envelopes:                                       $   1089.50
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   2229.50
+TOTAL EXPENSE:                                     $   1516.33
+BALANCE:                                           $   2197.53
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT29 Day Tuesday - ID 711  RAJEEV   VASH  1-May-18 $     95.00
+VT29 Day Wednesday - ID 711  RAJEEV   VA  2-May-18 $     95.00
+VT29 Day Thursday - ID 711  RAJEEV   VAS  3-May-18 $     95.00
+VT29 Day Friday - ID 711  RAJEEV   VASHI  4-May-18 $     95.00
+VT29 Day Sunday - ID 711  RAJEEV   VASHI  6-May-18 $     95.00
+VT29 Day Monday - ID 711  RAJEEV   VASHI  7-May-18 $     95.00
+VT29 Day Wednesday - ID 711  RAJEEV   VA  9-May-18 $     95.00
+VT29 Day Thursday - ID 711  RAJEEV   VAS 10-May-18 $     95.00
+VT29 Day Friday - ID 711  RAJEEV   VASHI 11-May-18 $     95.00
+VT29 Day Saturday - ID 711  RAJEEV   VAS 12-May-18 $     95.00
+VT29 Day Sunday - ID 711  RAJEEV   VASHI 13-May-18 $     95.00
+VT29 Day Tuesday - ID 711  RAJEEV   VASH 15-May-18 $     95.00
+Insurance                                31-May-18 $  (1029.48)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+24-May                                   31-May-18 $    426.10
+31-May                                   31-May-18 $    109.50
+31-May                                   31-May-18 $     19.00
+31-May                                   31-May-18 $    534.90
+april deposit                            31-May-18 $   (742.18)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.871464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

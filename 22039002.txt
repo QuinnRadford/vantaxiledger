@@ -1,0 +1,42 @@
+Account Summary For Sindhu B (911111) Cab 039N
+Account Number: 22039002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   1560.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   1560.00
+TOTAL EXPENSE:                                     $   1560.00
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT39 Night Tuesday - ID 6721  AMANDEEP S  1-May-18 $     80.00
+VT39 Night Friday - ID 6721  AMANDEEP SI  4-May-18 $    180.00
+VT39 Night Saturday - ID 6721  AMANDEEP   5-May-18 $    180.00
+VT39 Night Tuesday - ID 3736  JAGDIP SIN  8-May-18 $     80.00
+VT39 Night Tuesday - ID 6721  AMANDEEP S  8-May-18 $     80.00
+VT39 Night Thursday - ID 6721  AMANDEEP  10-May-18 $    100.00
+VT39 Night Saturday - ID 6721  AMANDEEP  12-May-18 $    180.00
+VT39 Night Sunday - ID 6721  AMANDEEP SI 13-May-18 $     80.00
+VT39 Night Tuesday - ID 6721  AMANDEEP S 15-May-18 $     80.00
+VT39 Night Thursday - ID 6721  AMANDEEP  17-May-18 $    100.00
+VT39 Night Friday - ID 6721  AMANDEEP SI 18-May-18 $    180.00
+VT39 Night Tuesday - ID 6721  AMANDEEP S 22-May-18 $     80.00
+VT39 Night Sunday - ID 6721  AMANDEEP SI 27-May-18 $     80.00
+VT39 Night Tuesday - ID 6721  AMANDEEP S 29-May-18 $     80.00
+Insurance                                31-May-18 $  (1028.16)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+39N                                      31-May-18 $    (44.99)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.885464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

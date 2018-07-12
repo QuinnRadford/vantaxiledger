@@ -1,0 +1,31 @@
+Account Summary For Rajput Gurpreet (94571) Cab 100D
+Account Number: 22100001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   6540.10
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   5771.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5771.00
+TOTAL EXPENSE:                                     $   1498.14
+BALANCE:                                           $  10812.96
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1011.29)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $    521.80
+31-May                                   31-May-18 $     65.00
+31-May                                   31-May-18 $   5184.20
+april deposit                            31-May-18 $  (3270.05)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.932464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

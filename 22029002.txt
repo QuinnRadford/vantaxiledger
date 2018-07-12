@@ -1,0 +1,38 @@
+Account Summary For Gill Shilamjeet (550506) Cab 029N
+Account Number: 22029002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   4940.33
+INCOME
+  Lease:                                           $    510.00
+  Envelopes:                                       $   2827.52
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3337.52
+TOTAL EXPENSE:                                     $   1716.34
+BALANCE:                                           $   6561.51
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT29 Night Tuesday - ID 53112  HARBHAJAN 22-May-18 $     95.00
+VT29 Night Thursday - ID 6219  MOHOD   E 24-May-18 $    120.00
+VT29 Night Friday - ID 8060  MOHAMMAD  A 25-May-18 $    200.00
+VT29 Night Tuesday - ID 53112  HARBHAJAN 29-May-18 $     95.00
+Insurance                                31-May-18 $  (1029.49)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+11-May                                   31-May-18 $    881.19
+16-May                                   31-May-18 $    900.98
+31-May                                   31-May-18 $     14.00
+31-May                                   31-May-18 $     12.00
+31-May                                   31-May-18 $   1019.35
+april depsit                             31-May-18 $  (2470.19)
+MOHAMMAD ANSARI INSF BALANCE 67 100 42 5 31-May-18 $   (200.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.872464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

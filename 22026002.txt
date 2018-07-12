@@ -1,0 +1,37 @@
+Account Summary For Badhan Sukhjit (212113) Cab 026N
+Account Number: 22026002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  10792.66
+INCOME
+  Lease:                                           $    500.00
+  Envelopes:                                       $   6614.39
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   7114.39
+TOTAL EXPENSE:                                     $   1601.34
+BALANCE:                                           $  16305.71
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT26 Night Tuesday - ID 785673  OMID   R  1-May-18 $     95.00
+VT26 Night Thursday - ID 68694  SANTOKH   3-May-18 $    120.00
+VT26 Night Monday - ID 3038  CHAMKAUR SI  7-May-18 $     95.00
+VT26 Night Tuesday - ID 3038  CHAMKAUR S  8-May-18 $     95.00
+VT26 Night Monday - ID 3038  CHAMKAUR SI 14-May-18 $     95.00
+Insurance                                31-May-18 $  (1029.49)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $     94.00
+31-May                                   31-May-18 $     39.00
+31-May                                   31-May-18 $   6481.39
+april deposit                            31-May-18 $  (5396.33)
+MANEESH BADHAN                           31-May-18 $    (85.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.871464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

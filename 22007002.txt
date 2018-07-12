@@ -1,0 +1,57 @@
+Account Summary For KDMS Investments Cab 007N
+Account Number: 22007002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   3665.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3665.00
+TOTAL EXPENSE:                                     $   3665.00
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT7 Night Tuesday - ID 387  MEHDI   CHAM  1-May-18 $     95.00
+VT7 Night Wednesday - ID 387  MEHDI   CH  2-May-18 $    100.00
+VT7 Night Thursday - ID 387  MEHDI   CHA  3-May-18 $    120.00
+VT7 Night Friday - ID 387  MEHDI   CHAMA  4-May-18 $    200.00
+VT7 Night Sunday - ID 387  MEHDI   CHAMA  6-May-18 $     95.00
+VT7 Night Monday - ID 387  MEHDI   CHAMA  7-May-18 $     95.00
+VT7 Night Tuesday - ID 387  MEHDI   CHAM  8-May-18 $     95.00
+VT7 Night Wednesday - ID 387  MEHDI   CH  9-May-18 $    100.00
+VT7 Night Thursday - ID 387  MEHDI   CHA 10-May-18 $    120.00
+VT7 Night Friday - ID 387  MEHDI   CHAMA 11-May-18 $    200.00
+VT7 Night Saturday - ID 387  MEHDI   CHA 12-May-18 $    200.00
+VT7 Night Sunday - ID 387  MEHDI   CHAMA 13-May-18 $     95.00
+VT7 Night Monday - ID 387  MEHDI   CHAMA 14-May-18 $     95.00
+VT7 Night Tuesday - ID 387  MEHDI   CHAM 15-May-18 $     95.00
+VT7 Night Wednesday - ID 387  MEHDI   CH 16-May-18 $    100.00
+VT7 Night Thursday - ID 387  MEHDI   CHA 17-May-18 $    120.00
+VT7 Night Friday - ID 387  MEHDI   CHAMA 18-May-18 $    200.00
+VT7 Night Saturday - ID 387  MEHDI   CHA 19-May-18 $    200.00
+VT7 Night Sunday - ID 387  MEHDI   CHAMA 20-May-18 $    120.00
+VT7 Night Monday - ID 387  MEHDI   CHAMA 21-May-18 $     95.00
+VT7 Night Tuesday - ID 387  MEHDI   CHAM 22-May-18 $     95.00
+VT7 Night Wednesday - ID 387  MEHDI   CH 23-May-18 $    100.00
+VT7 Night Thursday - ID 387  MEHDI   CHA 24-May-18 $    120.00
+VT7 Night Friday - ID 387  MEHDI   CHAMA 25-May-18 $    200.00
+VT7 Night Saturday - ID 387  MEHDI   CHA 26-May-18 $    200.00
+VT7 Night Sunday - ID 387  MEHDI   CHAMA 27-May-18 $     95.00
+VT7 Night Tuesday - ID 387  MEHDI   CHAM 29-May-18 $     95.00
+VT7 Night Wednesday - ID 387  MEHDI   CH 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1045.97)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT7 Night Thursday - ID 387  MEHDI   CHA 31-May-18 $    120.00
+DN                                       31-May-18 $  (2132.18)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.850464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

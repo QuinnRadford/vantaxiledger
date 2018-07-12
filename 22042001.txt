@@ -1,0 +1,37 @@
+Account Summary For Mohammed Khalil (65733) Cab 042D
+Account Number: 22042001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   7646.84
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   5428.89
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5428.89
+TOTAL EXPENSE:                                     $   1503.95
+BALANCE:                                           $  11571.78
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1017.10)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+9-May                                    31-May-18 $     40.00
+9-May                                    31-May-18 $   1284.04
+16-May                                   31-May-18 $     80.50
+16-May                                   31-May-18 $     22.00
+16-May                                   31-May-18 $   1290.10
+23-May                                   31-May-18 $     46.30
+23-May                                   31-May-18 $   1047.65
+31-May                                   31-May-18 $     12.00
+31-May                                   31-May-18 $   1606.30
+april deposit                            31-May-18 $  (3823.42)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.889464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

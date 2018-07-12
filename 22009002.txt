@@ -1,0 +1,58 @@
+Account Summary For Sandhu D (8252) Cab 009N
+Account Number: 22009002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   (346.50)
+INCOME
+  Lease:                                           $   3190.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   4808.00
+TOTAL INCOME:                                      $   7998.00
+TOTAL EXPENSE:                                     $   7851.50
+BALANCE:                                           $   (200.00)
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT9 Night Wednesday - ID 7779  SATWINDER  2-May-18 $    100.00
+VT9 Night Thursday - ID 7779  SATWINDER   3-May-18 $    120.00
+VT9 Night Friday - ID 7779  SATWINDER     4-May-18 $    200.00
+VT9 Night Saturday - ID 7779  SATWINDER   5-May-18 $    200.00
+VT9 Night Sunday - ID 8074  GURWINDER     6-May-18 $     95.00
+VT9 Night Wednesday - ID 8074  GURWINDER  9-May-18 $    100.00
+VT9 Night Thursday - ID 7779  SATWINDER  10-May-18 $    120.00
+VT9 Night Friday - ID 7779  SATWINDER    11-May-18 $    200.00
+VT9 Night Saturday - ID 42571  Sukhpreet 12-May-18 $    200.00
+khalon lease to sat padda                12-May-18 $   (200.00)
+VT9 Night Tuesday - ID 8074  GURWINDER   15-May-18 $     95.00
+VT9 Night Wednesday - ID 8074  GURWINDER 16-May-18 $    100.00
+VT9 Night Thursday - ID 7779  SATWINDER  17-May-18 $    120.00
+VT9 Night Friday - ID 7779  SATWINDER    18-May-18 $    200.00
+VT9 Night Sunday - ID 8074  GURWINDER    20-May-18 $    120.00
+VT9 Night Tuesday - ID 7779  SATWINDER   22-May-18 $     95.00
+VT9 Night Wednesday - ID 8074  GURWINDER 23-May-18 $    100.00
+VT9 Night Thursday - ID 8074  GURWINDER  24-May-18 $    120.00
+VT9 Night Friday - ID 7779  SATWINDER    25-May-18 $    200.00
+VT9 Night Saturday - ID 7779  SATWINDER  26-May-18 $    200.00
+VT9 Night Sunday - ID 7779  SATWINDER    27-May-18 $     95.00
+VT9 Night Monday - ID 7779  SATWINDER    28-May-18 $     95.00
+VT9 Night Tuesday - ID 8074  GURWINDER   29-May-18 $     95.00
+VT9 Night Wednesday - ID 8074  GURWINDER 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1034.65)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT9 Night Thursday - ID 8074  GURWINDER  31-May-18 $    120.00
+Gurwinder Padda april lease refund       31-May-18 $   (960.00)
+Satwinder Padda april lease refund       31-May-18 $  (1980.00)
+Satwinder Padda may lease refund         31-May-18 $  (1945.00)
+Gurinder Padda may lease refund          31-May-18 $  (1045.00)
+CAR 9N APRIL/MAY EXPENSES                31-May-18 $   4808.00
+KAHLON SUKHPREET INSF BALANCE 9N 58N     31-May-18 $   (200.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.852464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

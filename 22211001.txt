@@ -1,0 +1,49 @@
+Account Summary For Kon Ralph (622) Cab 211D
+Account Number: 22211001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   1529.36
+INCOME
+  Lease:                                           $   1900.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   1316.78
+TOTAL INCOME:                                      $   3216.78
+TOTAL EXPENSE:                                     $   1548.22
+BALANCE:                                           $   3197.92
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT211 Day Friday - ID 7246  VESELIN   VU 11-May-18 $     95.00
+VT211 Day Saturday - ID 7246  VESELIN    12-May-18 $     95.00
+VT211 Day Sunday - ID 7246  VESELIN   VU 13-May-18 $     95.00
+VT211 Day Monday - ID 7246  VESELIN   VU 14-May-18 $     95.00
+VT211 Day Tuesday - ID 7246  VESELIN   V 15-May-18 $     95.00
+VT211 Day Wednesday - ID 74759  ZORAN RA 16-May-18 $     95.00
+VT211 Day Friday - ID 7246  VESELIN   VU 18-May-18 $     95.00
+VT211 Day Saturday - ID 7246  VESELIN    19-May-18 $     95.00
+VT211 Day Sunday - ID 7246  VESELIN   VU 20-May-18 $     95.00
+VT211 Day Monday - ID 7246  VESELIN   VU 21-May-18 $     95.00
+VT211 Day Tuesday - ID 7246  VESELIN   V 22-May-18 $     95.00
+VT211 Day Wednesday - ID 74759  ZORAN RA 23-May-18 $     95.00
+VT211 Day Thursday - ID 7246  VESELIN    24-May-18 $     95.00
+VT211 Day Friday - ID 7246  VESELIN   VU 25-May-18 $     95.00
+VT211 Day Saturday - ID 7246  VESELIN    26-May-18 $     95.00
+VT211 Day Sunday - ID 7246  VESELIN   VU 27-May-18 $     95.00
+VT211 Day Monday - ID 7246  VESELIN   VU 28-May-18 $     95.00
+VT211 Day Tuesday - ID 7246  VESELIN   V 29-May-18 $     95.00
+VT211 Day Wednesday - ID 74759  ZORAN RA 30-May-18 $     95.00
+Insurance                                31-May-18 $  (1058.57)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT211 Day Thursday - ID 7246  VESELIN    31-May-18 $     95.00
+2446 Pritam Singh Grewal drove 211 13/03 31-May-18 $    100.00
+DN                                       31-May-18 $   1216.78
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.961464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

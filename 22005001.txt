@@ -1,0 +1,35 @@
+Account Summary For Chhoker Harjap (884108) Cab 005D
+Account Number: 22005001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   4736.67
+INCOME
+  Lease:                                           $    475.00
+  Envelopes:                                       $   4033.38
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   4508.38
+TOTAL EXPENSE:                                     $   1501.98
+BALANCE:                                           $   7743.07
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT5 Day Saturday - ID 806  MOHAMMAD   ME  5-May-18 $     95.00
+VT5 Day Saturday - ID 806  MOHAMMAD   ME 12-May-18 $     95.00
+VT5 Day Friday - ID 806  MOHAMMAD   MEMA 18-May-18 $     95.00
+VT5 Day Saturday - ID 806  MOHAMMAD   ME 19-May-18 $     95.00
+VT5 Day Saturday - ID 806  MOHAMMAD   ME 26-May-18 $     95.00
+Insurance                                31-May-18 $  (1015.13)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+31-May                                   31-May-18 $    280.80
+31-May                                   31-May-18 $   3752.58
+april deposit                            31-May-18 $  (2368.34)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.847464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,41 @@
+Account Summary For K.S Nahal & Sons Cab 202D
+Account Number: 22202001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   1330.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   1934.85
+TOTAL INCOME:                                      $   3264.85
+TOTAL EXPENSE:                                     $   3264.85
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT202 Day Thursday - ID 63067  INDERJOT   3-May-18 $     95.00
+VT202 Day Friday - ID 63067  INDERJOT SI  4-May-18 $     95.00
+VT202 Day Tuesday - ID 63067  INDERJOT S  8-May-18 $     95.00
+VT202 Day Monday - ID 63067  INDERJOT SI 14-May-18 $     95.00
+VT202 Day Tuesday - ID 63067  INDERJOT S 15-May-18 $     95.00
+VT202 Day Saturday - ID 6610  JECHUAL    19-May-18 $     95.00
+VT202 Day Sunday - ID 6610  JECHUAL   KI 20-May-18 $     95.00
+VT202 Day Wednesday - ID 6610  JECHUAL   23-May-18 $     95.00
+VT202 Day Friday - ID 63067  INDERJOT SI 25-May-18 $     95.00
+VT202 Day Monday - ID 63067  INDERJOT SI 28-May-18 $     95.00
+VT202 Day Wednesday - ID 63067  INDERJOT 30-May-18 $     95.00
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+Inderjot no show 22122                   31-May-18 $    285.00
+DN                                       31-May-18 $   1934.85
+202 - 107                                31-May-18 $  (1729.70)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.950464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

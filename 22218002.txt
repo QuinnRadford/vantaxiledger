@@ -1,0 +1,49 @@
+Account Summary For Kon Ralph (622) Cab 218N
+Account Number: 22218002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2845.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   2845.00
+TOTAL EXPENSE:                                     $   2845.00
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT218 Night Tuesday - ID 7533  VLADA   V  1-May-18 $     95.00
+VT218 Night Wednesday - ID 7533  VLADA    2-May-18 $    100.00
+VT218 Night Thursday - ID 7533  VLADA     3-May-18 $    120.00
+VT218 Night Friday - ID 7533  VLADA   VA  4-May-18 $    200.00
+VT218 Night Saturday - ID 7533  VLADA     5-May-18 $    200.00
+VT218 Night Sunday - ID 7533  VLADA   VA  6-May-18 $     95.00
+VT218 Night Monday - ID 7533  VLADA   VA  7-May-18 $     95.00
+VT218 Night Tuesday - ID 2446  Pritam Si  8-May-18 $     95.00
+VT218 Night Wednesday - ID 7533  VLADA    9-May-18 $    100.00
+VT218 Night Thursday - ID 7533  VLADA    10-May-18 $    120.00
+VT218 Night Friday - ID 7533  VLADA   VA 11-May-18 $    200.00
+VT218 Night Saturday - ID 7533  VLADA    12-May-18 $    200.00
+VT218 Night Sunday - ID 7533  VLADA   VA 13-May-18 $     95.00
+VT218 Night Monday - ID 7533  VLADA   VA 14-May-18 $     95.00
+VT218 Night Tuesday - ID 7533  VLADA   V 15-May-18 $     95.00
+VT218 Night Wednesday - ID 7533  VLADA   16-May-18 $    100.00
+VT218 Night Thursday - ID 7533  VLADA    17-May-18 $    120.00
+VT218 Night Friday - ID 7533  VLADA   VA 18-May-18 $    200.00
+VT218 Night Saturday - ID 7533  VLADA    19-May-18 $    200.00
+VT218 Night Sunday - ID 7533  VLADA   VA 20-May-18 $    120.00
+VT218 Night Saturday - ID 7533  VLADA    26-May-18 $    200.00
+Insurance                                31-May-18 $  (1059.04)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+DN                                       31-May-18 $  (1296.31)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.968464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

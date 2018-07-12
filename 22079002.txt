@@ -1,0 +1,56 @@
+Account Summary For Manak Vickram (55174) Cab 079N
+Account Number: 22079002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $    834.76
+INCOME
+  Lease:                                           $   3125.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3125.00
+TOTAL EXPENSE:                                     $   1795.12
+BALANCE:                                           $   2164.64
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT79 Night Tuesday - ID 65062  YUSUF   Y  1-May-18 $     80.00
+VT79 Night Wednesday - ID 65062  YUSUF    2-May-18 $     85.00
+VT79 Night Thursday - ID 65062  YUSUF     3-May-18 $    100.00
+VT79 Night Friday - ID 65062  YUSUF   YA  4-May-18 $    180.00
+VT79 Night Saturday - ID 65062  YUSUF     5-May-18 $    180.00
+VT79 Night Sunday - ID 65062  YUSUF   YA  6-May-18 $     80.00
+VT79 Night Monday - ID 65062  YUSUF   YA  7-May-18 $     80.00
+VT79 Night Wednesday - ID 65062  YUSUF    9-May-18 $     85.00
+VT79 Night Thursday - ID 65062  YUSUF    10-May-18 $    100.00
+VT79 Night Friday - ID 65062  YUSUF   YA 11-May-18 $    180.00
+VT79 Night Saturday - ID 65062  YUSUF    12-May-18 $    180.00
+VT79 Night Sunday - ID 65062  YUSUF   YA 13-May-18 $     80.00
+VT79 Night Monday - ID 65062  YUSUF   YA 14-May-18 $     80.00
+VT79 Night Wednesday - ID 65062  YUSUF   16-May-18 $     85.00
+VT79 Night Thursday - ID 65062  YUSUF    17-May-18 $    100.00
+VT79 Night Friday - ID 65062  YUSUF   YA 18-May-18 $    180.00
+VT79 Night Saturday - ID 65062  YUSUF    19-May-18 $    180.00
+VT79 Night Sunday - ID 65062  YUSUF   YA 20-May-18 $    120.00
+VT79 Night Monday - ID 65062  YUSUF   YA 21-May-18 $     80.00
+VT79 Night Wednesday - ID 65062  YUSUF   23-May-18 $     85.00
+VT79 Night Thursday - ID 65062  YUSUF    24-May-18 $    100.00
+VT79 Night Friday - ID 65062  YUSUF   YA 25-May-18 $    180.00
+VT79 Night Saturday - ID 65062  YUSUF    26-May-18 $    180.00
+VT79 Night Sunday - ID 65062  YUSUF   YA 27-May-18 $     80.00
+VT79 Night Monday - ID 65062  YUSUF   YA 28-May-18 $     80.00
+VT79 Night Wednesday - ID 65062  YUSUF   30-May-18 $     85.00
+Car payment for 79                       30-May-18 $   (294.50)
+Insurance                                31-May-18 $  (1013.77)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT79 Night Thursday - ID 65062  YUSUF    31-May-18 $    100.00
+april deposit                            31-May-18 $   (417.38)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.923464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

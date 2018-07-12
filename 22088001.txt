@@ -1,0 +1,35 @@
+Account Summary For Gill Victor (43574) Cab 088D
+Account Number: 22088001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5997.76
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   4147.77
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   4147.77
+TOTAL EXPENSE:                                     $   1532.35
+BALANCE:                                           $   8613.18
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+22-May                                   31-May-18 $    131.90
+22-May                                   31-May-18 $     12.00
+22-May                                   31-May-18 $   1699.71
+25-May                                   31-May-18 $    108.15
+25-May                                   31-May-18 $    908.30
+31-May                                   31-May-18 $     77.70
+31-May                                   31-May-18 $   1210.01
+april deposit                            31-May-18 $  (2998.88)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.924464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

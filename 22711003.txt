@@ -1,0 +1,27 @@
+Account Summary For Virk Jagdev () Cab 711T
+Account Number: 22711003
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $    189.00
+TOTAL INCOME:                                      $    189.00
+TOTAL EXPENSE:                                     $    189.00
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+Service Fee                              31-May-18 $   (180.00)
+GST on Service Fee                       31-May-18 $     (9.00)
+SERVICE FEE REFUND FOR 4 DAYS            31-May-18 $     90.00
+SERVICE FEE REFUND FOR 4 DAYS            31-May-18 $      4.50
+711 - 32                                 31-May-18 $     94.50
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.980464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,56 @@
+Account Summary For Toor Gurpreet (8907) Cab 215N
+Account Number: 22215002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   3360.00
+  Envelopes:                                       $   3566.82
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   6926.82
+TOTAL EXPENSE:                                     $   6926.82
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT215 Night Wednesday - ID 1975  KHALID   2-May-18 $    100.00
+VT215 Night Friday - ID 1975  KHALID RAD  4-May-18 $    200.00
+VT215 Night Saturday - ID 1975  KHALID R  5-May-18 $    200.00
+VT215 Night Sunday - ID 155156  YUVRAJ    6-May-18 $     95.00
+VT215 Night Tuesday - ID 1975  KHALID RA  8-May-18 $     95.00
+VT215 Night Wednesday - ID 8953  IMAN SH  9-May-18 $    100.00
+VT215 Night Thursday - ID 1975  KHALID R 10-May-18 $    120.00
+VT215 Night Friday - ID 1975  KHALID RAD 11-May-18 $    200.00
+VT215 Night Saturday - ID 1975  KHALID R 12-May-18 $    200.00
+VT215 Night Sunday - ID 155156  YUVRAJ   13-May-18 $     95.00
+VT215 Night Monday - ID 1975  KHALID RAD 14-May-18 $     95.00
+VT215 Night Tuesday - ID 1975  KHALID RA 15-May-18 $     95.00
+VT215 Night Thursday - ID 155156  YUVRAJ 17-May-18 $    120.00
+VT215 Night Friday - ID 155156  YUVRAJ   18-May-18 $    200.00
+VT215 Night Saturday - ID 155156  YUVRAJ 19-May-18 $    200.00
+VT215 Night Sunday - ID 8953  IMAN SHRIA 20-May-18 $    120.00
+VT215 Night Tuesday - ID 2446  Pritam Si 22-May-18 $     95.00
+VT215 Night Wednesday - ID 2446  Pritam  23-May-18 $    100.00
+VT215 Night Thursday - ID 7579  SAVINDER 24-May-18 $    120.00
+VT215 Night Friday - ID 155156  YUVRAJ   25-May-18 $    200.00
+VT215 Night Saturday - ID 2446  Pritam S 26-May-18 $    200.00
+VT215 Night Sunday - ID 2446  Pritam Sin 27-May-18 $     95.00
+VT215 Night Tuesday - ID 2446  Pritam Si 29-May-18 $     95.00
+VT215 Night Wednesday - ID 2446  Pritam  30-May-18 $    100.00
+Insurance                                31-May-18 $  (1045.97)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT215 Night Thursday - ID 155156  YUVRAJ 31-May-18 $    120.00
+22-May                                   31-May-18 $    129.85
+22-May                                   31-May-18 $   1900.27
+31-May                                   31-May-18 $   1536.70
+DN                                       31-May-18 $  (5391.20)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.965464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

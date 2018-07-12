@@ -1,0 +1,35 @@
+Account Summary For Bains P (874258) Cab 038D
+Account Number: 22038001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   7723.08
+INCOME
+  Lease:                                           $     85.00
+  Envelopes:                                       $   5679.04
+  Other Credits:                                   $    330.02
+TOTAL INCOME:                                      $   6094.06
+TOTAL EXPENSE:                                     $   1429.98
+BALANCE:                                           $  12387.16
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT38 Day Sunday - ID 16158  SARABJIT CHA 27-May-18 $     85.00
+Insurance                                31-May-18 $   (943.13)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+22-May                                   31-May-18 $   1149.50
+22-May                                   31-May-18 $   2144.55
+31-May                                   31-May-18 $   1106.40
+31-May                                   31-May-18 $     13.00
+31-May                                   31-May-18 $   1265.59
+april depoisit                           31-May-18 $  (3861.54)
+DN                                       31-May-18 $    330.02
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.884464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

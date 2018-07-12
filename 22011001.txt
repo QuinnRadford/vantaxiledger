@@ -1,0 +1,60 @@
+Account Summary For Ralph (622) Cab 011D
+Account Number: 22011001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  17638.20
+INCOME
+  Lease:                                           $   2660.00
+  Envelopes:                                       $   2762.73
+  Other Credits:                                   $   4292.73
+TOTAL INCOME:                                      $   9715.46
+TOTAL EXPENSE:                                     $   1249.88
+BALANCE:                                           $  26103.78
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT11 Day Tuesday - ID 535727  IMAD  NOUR  1-May-18 $     95.00
+VT11 Day Wednesday - ID 535727  IMAD  NO  2-May-18 $     95.00
+VT11 Day Thursday - ID 535727  IMAD  NOU  3-May-18 $     95.00
+VT11 Day Friday - ID 535727  IMAD  NOURI  4-May-18 $     95.00
+VT11 Day Saturday - ID 74759  ZORAN RAHM  5-May-18 $     95.00
+VT11 Day Sunday - ID 74759  ZORAN RAHMAN  6-May-18 $     95.00
+VT11 Day Monday - ID 74759  ZORAN RAHMAN  7-May-18 $     95.00
+VT11 Day Wednesday - ID 74759  ZORAN RAH  9-May-18 $     95.00
+VT11 Day Thursday - ID 535727  IMAD  NOU 10-May-18 $     95.00
+VT11 Day Friday - ID 535727  IMAD  NOURI 11-May-18 $     95.00
+VT11 Day Saturday - ID 74759  ZORAN RAHM 12-May-18 $     95.00
+VT11 Day Sunday - ID 74759  ZORAN RAHMAN 13-May-18 $     95.00
+VT11 Day Monday - ID 535727  IMAD  NOURI 14-May-18 $     95.00
+VT11 Day Tuesday - ID 535727  IMAD  NOUR 15-May-18 $     95.00
+VT11 Day Wednesday - ID 535727  IMAD  NO 16-May-18 $     95.00
+VT11 Day Thursday - ID 535727  IMAD  NOU 17-May-18 $     95.00
+VT11 Day Friday - ID 535727  IMAD  NOURI 18-May-18 $     95.00
+VT11 Day Saturday - ID 74759  ZORAN RAHM 19-May-18 $     95.00
+VT11 Day Sunday - ID 74759  ZORAN RAHMAN 20-May-18 $     95.00
+VT11 Day Monday - ID 535727  IMAD  NOURI 21-May-18 $     95.00
+VT11 Day Tuesday - ID 535727  IMAD  NOUR 22-May-18 $     95.00
+VT11 Day Wednesday - ID 535727  IMAD  NO 23-May-18 $     95.00
+VT11 Day Thursday - ID 535727  IMAD  NOU 24-May-18 $     95.00
+VT11 Day Friday - ID 535727  IMAD  NOURI 25-May-18 $     95.00
+VT11 Day Saturday - ID 74759  ZORAN RAHM 26-May-18 $     95.00
+VT11 Day Sunday - ID 74759  ZORAN RAHMAN 27-May-18 $     95.00
+VT11 Day Wednesday - ID 535727  IMAD  NO 30-May-18 $     95.00
+Insurance                                31-May-18 $   (763.03)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT11 Day Thursday - ID 535727  IMAD  NOU 31-May-18 $     95.00
+31-May                                   31-May-18 $    257.65
+31-May                                   31-May-18 $   2505.08
+april deposit                            31-May-18 $  (8819.10)
+DN                                       31-May-18 $   2170.11
+218 - 11                                 31-May-18 $   2122.62
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.854464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

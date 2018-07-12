@@ -1,0 +1,33 @@
+Account Summary For Cheema S (242744) Cab 045N
+Account Number: 22045002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $    900.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $    624.81
+TOTAL INCOME:                                      $   1524.81
+TOTAL EXPENSE:                                     $   1424.81
+BALANCE:                                           $    100.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT45 Night Friday - ID 432911  AMRITPAL   4-May-18 $    180.00
+VT45 Night Friday - ID 432911  AMRITPAL  11-May-18 $    180.00
+VT45 Night Saturday - ID 660380  SONI VI 12-May-18 $    180.00
+VT45 Night Friday - ID 432911  AMRITPAL  18-May-18 $    180.00
+VT45 Night Saturday - ID 6327  Atta Sali 26-May-18 $    180.00
+Insurance                                31-May-18 $   (937.96)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+DN                                       31-May-18 $    624.81
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.896464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,43 @@
+Account Summary For Bhangu Kulvir (6822) Cab 059D
+Account Number: 22059001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   6652.36
+INCOME
+  Lease:                                           $    170.00
+  Envelopes:                                       $   5067.62
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5237.62
+TOTAL EXPENSE:                                     $   1502.46
+BALANCE:                                           $  10387.52
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT59 Day Saturday - ID 711  RAJEEV   VAS  5-May-18 $     85.00
+West Coast Meter Service Ltd.             9-May-18 $    (50.96)
+VT59 Day Saturday - ID 711  RAJEEV   VAS 19-May-18 $     85.00
+Insurance                                31-May-18 $   (964.65)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+9-May                                    31-May-18 $    100.70
+9-May                                    31-May-18 $   1191.30
+16-May                                   31-May-18 $    135.40
+16-May                                   31-May-18 $     14.00
+16-May                                   31-May-18 $    982.18
+22-May                                   31-May-18 $    119.85
+22-May                                   31-May-18 $     14.00
+22-May                                   31-May-18 $    459.80
+28-May                                   31-May-18 $     47.00
+28-May                                   31-May-18 $   1175.99
+31-May                                   31-May-18 $     26.40
+31-May                                   31-May-18 $    801.00
+april deposit                            31-May-18 $  (3326.18)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.909464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

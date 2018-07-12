@@ -1,0 +1,41 @@
+Account Summary For Tran Ty (544204) Cab 056D
+Account Number: 22056001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  10285.58
+INCOME
+  Lease:                                           $    255.00
+  Envelopes:                                       $   6104.77
+  Other Credits:                                   $   1645.70
+TOTAL INCOME:                                      $   8005.47
+TOTAL EXPENSE:                                     $   1704.84
+BALANCE:                                           $  16586.21
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT56 Day Saturday - ID 5759  DERK BOS     5-May-18 $     85.00
+VT56 Day Saturday - ID 5759  DERK BOS    19-May-18 $     85.00
+VT56 Day Saturday - ID 5759  DERK BOS    26-May-18 $     85.00
+Insurance                                31-May-18 $   (962.99)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+18-May                                   31-May-18 $    323.55
+18-May                                   31-May-18 $     68.00
+18-May                                   31-May-18 $   3884.12
+25-May                                   31-May-18 $    123.30
+25-May                                   31-May-18 $     45.00
+25-May                                   31-May-18 $    892.20
+29-May                                   31-May-18 $     70.00
+29-May                                   31-May-18 $    698.60
+april deposit                            31-May-18 $  (5142.79)
+DERK BOS INSF BALANCE 56D                31-May-18 $   (255.00)
+214D - 56                                31-May-18 $   1645.70
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.905464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

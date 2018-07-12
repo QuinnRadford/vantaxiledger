@@ -1,0 +1,37 @@
+Account Summary For Basra Parmjit (676903) Cab 060D
+Account Number: 22060001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   4991.94
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   6033.87
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   6033.87
+TOTAL EXPENSE:                                     $   3139.06
+BALANCE:                                           $   7886.75
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $   (989.68)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+22-May                                   31-May-18 $    159.90
+22-May                                   31-May-18 $     12.00
+22-May                                   31-May-18 $   2751.66
+31-May                                   31-May-18 $    279.40
+31-May                                   31-May-18 $   2750.11
+31-May                                   31-May-18 $     80.80
+april deposit                            31-May-18 $  (2495.97)
+DN                                       31-May-18 $   (711.53)
+203 16 Days May                          31-May-18 $   (856.00)
+BASRA PARMJIT LEASE                      31-May-18 $    (95.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.910464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

@@ -1,0 +1,31 @@
+Account Summary For Uthman Lukman ( 7934) Cab 025N
+Account Number: 22025002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  12473.18
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   5239.20
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5239.20
+TOTAL EXPENSE:                                     $   1532.35
+BALANCE:                                           $  16180.03
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+29-May                                   31-May-18 $    202.20
+29-May                                   31-May-18 $     20.00
+29-May                                   31-May-18 $   5017.00
+april deposit                            31-May-18 $  (6236.59)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.869464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

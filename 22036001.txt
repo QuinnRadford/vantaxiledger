@@ -1,0 +1,35 @@
+Account Summary For Nahal J (47465) Cab 036D
+Account Number: 22036001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  11624.38
+INCOME
+  Lease:                                           $    360.00
+  Envelopes:                                       $   7748.07
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   8108.07
+TOTAL EXPENSE:                                     $   1506.81
+BALANCE:                                           $  18225.64
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT36 Night Saturday - ID 842447  ABDUL    5-May-18 $    180.00
+Insurance                                31-May-18 $  (1019.96)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+25-May                                   31-May-18 $   4464.40
+31-May                                   31-May-18 $    818.65
+31-May                                   31-May-18 $     55.00
+31-May                                   31-May-18 $   2271.42
+9-May                                    31-May-18 $    138.60
+april deposit                            31-May-18 $  (5812.19)
+3842447 Ahad Abdul forward shift 4/14/18 31-May-18 $    180.00
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.881464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

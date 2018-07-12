@@ -1,0 +1,35 @@
+Account Summary For Grewal S (710151) Cab 023D
+Account Number: 22023001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  13120.38
+INCOME
+  Lease:                                           $    255.00
+  Envelopes:                                       $   6106.82
+  Other Credits:                                   $   1948.22
+TOTAL INCOME:                                      $   8310.04
+TOTAL EXPENSE:                                     $   1496.77
+BALANCE:                                           $  19933.65
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT23 Day Saturday - ID 755406  JEGATHEES  5-May-18 $     85.00
+VT23 Day Saturday - ID 627  BALWANT  DHI 12-May-18 $     85.00
+VT23 Day Saturday - ID 755406  JEGATHEES 26-May-18 $     85.00
+Insurance                                31-May-18 $  (1009.92)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+14-May                                   31-May-18 $    166.00
+14-May                                   31-May-18 $     30.00
+14-May                                   31-May-18 $   5910.82
+april deposit                            31-May-18 $  (6560.19)
+DN                                       31-May-18 $   1948.22
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.865464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

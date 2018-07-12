@@ -1,0 +1,61 @@
+Account Summary For Tran T (544204) Cab 214D
+Account Number: 22214001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2660.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   2262.03
+TOTAL INCOME:                                      $   4922.03
+TOTAL EXPENSE:                                     $   4922.03
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT214 Day Wednesday - ID 875080  LENNOX   2-May-18 $     95.00
+VT214 Day Thursday - ID 875080  LENNOX    3-May-18 $     95.00
+VT214 Day Friday - ID 875080  LENNOX   B  4-May-18 $     95.00
+VT214 Day Saturday - ID 875080  LENNOX    5-May-18 $     95.00
+VT214 Day Sunday - ID 875080  LENNOX   B  6-May-18 $     95.00
+VT214 Day Tuesday - ID 5759  DERK BOS     8-May-18 $     95.00
+VT214 Day Thursday - ID 875080  LENNOX   10-May-18 $     95.00
+VT214 Day Friday - ID 875080  LENNOX   B 11-May-18 $     95.00
+VT214 Day Saturday - ID 875080  LENNOX   12-May-18 $     95.00
+VT214 Day Sunday - ID 875080  LENNOX   B 13-May-18 $     95.00
+VT214 Day Monday - ID 3356  GHAZI MAHFOU 14-May-18 $     95.00
+VT214 Day Tuesday - ID 3356  GHAZI MAHFO 15-May-18 $     95.00
+VT214 Day Wednesday - ID 875080  LENNOX  16-May-18 $     95.00
+VT214 Day Thursday - ID 875080  LENNOX   17-May-18 $     95.00
+VT214 Day Friday - ID 875080  LENNOX   B 18-May-18 $     95.00
+VT214 Day Saturday - ID 875080  LENNOX   19-May-18 $     95.00
+VT214 Day Sunday - ID 875080  LENNOX   B 20-May-18 $     95.00
+VT214 Day Monday - ID 3356  GHAZI MAHFOU 21-May-18 $     95.00
+VT214 Day Tuesday - ID 3356  GHAZI MAHFO 22-May-18 $     95.00
+VT214 Day Wednesday - ID 875080  LENNOX  23-May-18 $     95.00
+VT214 Day Thursday - ID 875080  LENNOX   24-May-18 $     95.00
+VT214 Day Friday - ID 875080  LENNOX   B 25-May-18 $     95.00
+VT214 Day Saturday - ID 875080  LENNOX   26-May-18 $     95.00
+VT214 Day Sunday - ID 875080  LENNOX   B 27-May-18 $     95.00
+VT214 Day Monday - ID 3356  GHAZI MAHFOU 28-May-18 $     95.00
+VT214 Day Tuesday - ID 3356  GHAZI MAHFO 29-May-18 $     95.00
+VT214 Day Wednesday - ID 875080  LENNOX  30-May-18 $     95.00
+Insurance                                31-May-18 $  (1045.97)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT214 Day Thursday - ID 875080  LENNOX   31-May-18 $     95.00
+DN                                       31-May-18 $   2262.03
+DERK BOS INSF BALANCE 214D 111D 210D     31-May-18 $    (95.00)
+214D - 56                                31-May-18 $  (1645.70)
+214 - 56N                                31-May-18 $   (548.57)
+214 - 116N                               31-May-18 $   (548.56)
+B MANGAT 214                             31-May-18 $   (548.58)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.964464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

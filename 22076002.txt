@@ -1,0 +1,59 @@
+Account Summary For Gill Amandeep Cab 076N
+Account Number: 22076002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3255.46
+INCOME
+  Lease:                                           $   3485.00
+  Envelopes:                                       $   4072.67
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   7557.67
+TOTAL EXPENSE:                                     $   4978.45
+BALANCE:                                           $   5834.68
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT76 Night Tuesday - ID 1309  AMANDEEP    1-May-18 $     95.00
+VT76 Night Wednesday - ID 1309  AMANDEEP  2-May-18 $    100.00
+VT76 Night Thursday - ID 1309  AMANDEEP   3-May-18 $    120.00
+VT76 Night Friday - ID 1309  AMANDEEP     4-May-18 $    200.00
+VT76 Night Saturday - ID 1309  AMANDEEP   5-May-18 $    200.00
+VT76 Night Sunday - ID 1309  AMANDEEP     6-May-18 $     95.00
+VT76 Night Wednesday - ID 1309  AMANDEEP  9-May-18 $    100.00
+VT76 Night Thursday - ID 1309  AMANDEEP  10-May-18 $    120.00
+VT76 Night Friday - ID 1309  AMANDEEP    11-May-18 $    200.00
+VT76 Night Saturday - ID 1309  AMANDEEP  12-May-18 $    200.00
+VT76 Night Sunday - ID 1309  AMANDEEP    13-May-18 $     95.00
+VT76 Night Tuesday - ID 1309  AMANDEEP   15-May-18 $     95.00
+VT76 Night Wednesday - ID 1309  AMANDEEP 16-May-18 $    100.00
+VT76 Night Thursday - ID 1309  AMANDEEP  17-May-18 $    120.00
+VT76 Night Friday - ID 1309  AMANDEEP    18-May-18 $    200.00
+VT76 Night Saturday - ID 1309  AMANDEEP  19-May-18 $    200.00
+VT76 Night Sunday - ID 1309  AMANDEEP    20-May-18 $    120.00
+VT76 Night Monday - ID 1309  AMANDEEP    21-May-18 $     95.00
+VT76 Night Wednesday - ID 1309  AMANDEEP 23-May-18 $    100.00
+VT76 Night Thursday - ID 1309  AMANDEEP  24-May-18 $    120.00
+VT76 Night Friday - ID 1309  AMANDEEP    25-May-18 $    200.00
+VT76 Night Saturday - ID 1309  AMANDEEP  26-May-18 $    200.00
+VT76 Night Sunday - ID 1309  AMANDEEP    27-May-18 $     95.00
+VT76 Night Tuesday - ID 1309  AMANDEEP   29-May-18 $     95.00
+VT76 Night Wednesday - ID 1309  AMANDEEP 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1006.60)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT76 Night Thursday - ID 1309  AMANDEEP  31-May-18 $    120.00
+25-May                                   31-May-18 $   1886.29
+31-May                                   31-May-18 $     66.00
+31-May                                   31-May-18 $     30.00
+31-May                                   31-May-18 $   2090.38
+april deposit                            31-May-18 $  (1627.73)
+LEASE REFUND                             31-May-18 $  (3485.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.920464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

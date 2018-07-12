@@ -1,0 +1,48 @@
+Account Summary For Gosal B (257584) Cab 048D
+Account Number: 22048001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   9085.76
+INCOME
+  Lease:                                           $   1360.00
+  Envelopes:                                       $   5566.40
+  Other Credits:                                   $  (1432.85)
+TOTAL INCOME:                                      $   5493.55
+TOTAL EXPENSE:                                     $   1504.42
+BALANCE:                                           $  13074.89
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT48 Day Tuesday - ID 8495  LOVEJEET BAI  1-May-18 $     85.00
+VT48 Day Wednesday - ID 8495  LOVEJEET B  2-May-18 $     85.00
+VT48 Day Thursday - ID 8495  LOVEJEET BA  3-May-18 $     85.00
+VT48 Day Saturday - ID 8495  LOVEJEET BA  5-May-18 $     85.00
+VT48 Day Sunday - ID 8495  LOVEJEET BAIN  6-May-18 $     85.00
+VT48 Day Monday - ID 8495  LOVEJEET BAIN  7-May-18 $     85.00
+VT48 Day Tuesday - ID 8495  LOVEJEET BAI  8-May-18 $     85.00
+VT48 Day Wednesday - ID 8495  LOVEJEET B  9-May-18 $     85.00
+VT48 Day Thursday - ID 8495  LOVEJEET BA 10-May-18 $     85.00
+VT48 Day Friday - ID 8495  LOVEJEET BAIN 11-May-18 $     85.00
+VT48 Day Saturday - ID 8495  LOVEJEET BA 12-May-18 $     85.00
+VT48 Day Sunday - ID 8495  LOVEJEET BAIN 13-May-18 $     85.00
+VT48 Day Tuesday - ID 8495  LOVEJEET BAI 15-May-18 $     85.00
+VT48 Day Wednesday - ID 8495  LOVEJEET B 16-May-18 $     85.00
+VT48 Day Monday - ID 8495  LOVEJEET BAIN 28-May-18 $     85.00
+VT48 Day Tuesday - ID 8495  LOVEJEET BAI 29-May-18 $     85.00
+Insurance                                31-May-18 $  (1017.57)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+8-May                                    31-May-18 $    210.90
+31-May                                   31-May-18 $    204.05
+31-May                                   31-May-18 $   5151.45
+april deposit                            31-May-18 $  (4587.88)
+TRANSFER                                 31-May-18 $  (1432.85)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.898464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

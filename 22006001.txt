@@ -1,0 +1,51 @@
+Account Summary For Bains T(146058) Cab 006D
+Account Number: 22006001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $    865.30
+INCOME
+  Lease:                                           $   1445.00
+  Envelopes:                                       $    398.50
+  Other Credits:                                   $    800.66
+TOTAL INCOME:                                      $   2644.16
+TOTAL EXPENSE:                                     $   1671.75
+BALANCE:                                           $   1837.71
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT6 Day Wednesday - ID 2004  MAKHAN GILL  2-May-18 $     85.00
+VT6 Day Thursday - ID 62063  GURWINDER A  3-May-18 $     85.00
+VT6 Day Friday - ID 627  BALWANT  DHILLO  4-May-18 $     85.00
+VT6 Day Thursday - ID 843634  JAVAID   H 10-May-18 $     85.00
+VT6 Day Friday - ID 3356  GHAZI MAHFOUZ  11-May-18 $     85.00
+VT6 Day Saturday - ID 3356  GHAZI MAHFOU 12-May-18 $     85.00
+VT6 Day Tuesday - ID 992518  HARCHARAN   15-May-18 $     85.00
+VT6 Day Wednesday - ID 3356  GHAZI MAHFO 16-May-18 $     85.00
+VT6 Day Thursday - ID 3356  GHAZI MAHFOU 17-May-18 $     85.00
+VT6 Day Friday - ID 3356  GHAZI MAHFOUZ  18-May-18 $     85.00
+VT6 Day Saturday - ID 3356  GHAZI MAHFOU 19-May-18 $     85.00
+VT6 Day Wednesday - ID 3356  GHAZI MAHFO 23-May-18 $     85.00
+VT6 Day Thursday - ID 3356  GHAZI MAHFOU 24-May-18 $     85.00
+VT6 Day Friday - ID 3356  GHAZI MAHFOUZ  25-May-18 $     85.00
+VT6 Day Saturday - ID 3356  GHAZI MAHFOU 26-May-18 $     85.00
+VT6 Day Wednesday - ID 3356  GHAZI MAHFO 30-May-18 $     85.00
+Insurance                                31-May-18 $   (979.90)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT6 Day Thursday - ID 3356  GHAZI MAHFOU 31-May-18 $     85.00
+14-May                                   31-May-18 $    369.40
+31-May                                   31-May-18 $     19.90
+31-May                                   31-May-18 $      9.20
+april deposit                            31-May-18 $   (432.65)
+224 - 6D                                 31-May-18 $    800.66
+GURWINDER AULAKH INSF BALANCE 6D 111D 13 31-May-18 $    (85.00)
+Ghazi Mahfouz Discount                   31-May-18 $   (120.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.848464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

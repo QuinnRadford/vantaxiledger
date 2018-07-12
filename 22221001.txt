@@ -1,0 +1,50 @@
+Account Summary For Dhaliwal H (1455) Cab 221D
+Account Number: 22221001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2090.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   (567.49)
+TOTAL INCOME:                                      $   1522.51
+TOTAL EXPENSE:                                     $   1522.51
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT221 Day Tuesday - ID 515  MBANYA  DUBE  1-May-18 $     95.00
+VT221 Day Wednesday - ID 85059  VAN NINH  2-May-18 $     95.00
+VT221 Day Thursday - ID 85059  VAN NINH   3-May-18 $     95.00
+VT221 Day Friday - ID 515  MBANYA  DUBE   4-May-18 $     95.00
+VT221 Day Tuesday - ID 515  MBANYA  DUBE  8-May-18 $     95.00
+VT221 Day Wednesday - ID 85059  VAN NINH  9-May-18 $     95.00
+VT221 Day Thursday - ID 85059  VAN NINH  10-May-18 $     95.00
+VT221 Day Friday - ID 515  MBANYA  DUBE  11-May-18 $     95.00
+VT221 Day Saturday - ID 44908  MD MAHFUZ 12-May-18 $     95.00
+VT221 Day Sunday - ID 2179  ABHAY JIT SI 13-May-18 $     95.00
+VT221 Day Tuesday - ID 515  MBANYA  DUBE 15-May-18 $     95.00
+VT221 Day Wednesday - ID 85059  VAN NINH 16-May-18 $     95.00
+VT221 Day Thursday - ID 85059  VAN NINH  17-May-18 $     95.00
+VT221 Day Friday - ID 515  MBANYA  DUBE  18-May-18 $     95.00
+VT221 Day Saturday - ID 44908  MD MAHFUZ 19-May-18 $     95.00
+VT221 Day Sunday - ID 44908  MD MAHFUZUL 20-May-18 $     95.00
+VT221 Day Tuesday - ID 515  MBANYA  DUBE 22-May-18 $     95.00
+VT221 Day Friday - ID 515  MBANYA  DUBE  25-May-18 $     95.00
+VT221 Day Sunday - ID 2179  ABHAY JIT SI 27-May-18 $     95.00
+VT221 Day Tuesday - ID 515  MBANYA  DUBE 29-May-18 $     95.00
+VT221 Day Wednesday - ID 85059  VAN NINH 30-May-18 $     95.00
+Insurance                                31-May-18 $  (1032.86)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT221 Day Thursday - ID 85059  VAN NINH  31-May-18 $     95.00
+TRANSFER                                 31-May-18 $   (567.49)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.970464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

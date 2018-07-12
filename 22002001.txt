@@ -1,0 +1,37 @@
+Account Summary For Cheema Rajwinder (1732) Cab 002D
+Account Number: 22002001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   1330.70
+INCOME
+  Lease:                                           $     95.00
+  Envelopes:                                       $   4992.08
+  Other Credits:                                   $    (28.00)
+TOTAL INCOME:                                      $   5059.08
+TOTAL EXPENSE:                                     $   1468.93
+BALANCE:                                           $   4920.85
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT2 Day Sunday - ID 992518  HARCHARAN  C 13-May-18 $     95.00
+Insurance                                31-May-18 $   (982.08)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+9-May                                    31-May-18 $     49.30
+9-May                                    31-May-18 $     25.00
+9-May                                    31-May-18 $   1242.10
+23-May                                   31-May-18 $     92.00
+23-May                                   31-May-18 $    (28.00)
+23-May                                   31-May-18 $   2132.13
+31-May                                   31-May-18 $     31.30
+31-May                                   31-May-18 $     11.00
+31-May                                   31-May-18 $   1409.25
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.842464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

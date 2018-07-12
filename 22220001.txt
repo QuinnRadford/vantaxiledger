@@ -1,0 +1,30 @@
+Account Summary For Chauhan Davinder (729404) Cab 220D
+Account Number: 22220001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5854.04
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $   4103.43
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   4103.43
+TOTAL EXPENSE:                                     $   1535.15
+BALANCE:                                           $   8422.32
+
+TRANSACTIONS
+---------------------------------------------------------------
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+31-May                                   31-May-18 $    110.15
+31-May                                   31-May-18 $   3993.28
+april deposit                            31-May-18 $  (2927.02)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.969464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

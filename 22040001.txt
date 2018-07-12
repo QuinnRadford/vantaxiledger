@@ -1,0 +1,54 @@
+Account Summary For Chhoker B (91396) Cab 040D
+Account Number: 22040001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   1928.76
+INCOME
+  Lease:                                           $   2210.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   2210.00
+TOTAL EXPENSE:                                     $   1500.62
+BALANCE:                                           $   2638.14
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT40 Day Tuesday - ID 3275  RISHAMDEEP    1-May-18 $     85.00
+VT40 Day Wednesday - ID 3275  RISHAMDEEP  2-May-18 $     85.00
+VT40 Day Thursday - ID 3275  RISHAMDEEP   3-May-18 $     85.00
+VT40 Day Saturday - ID 4370  ZAHEER   BE  5-May-18 $     85.00
+VT40 Day Sunday - ID 4370  ZAHEER   BEHZ  6-May-18 $     85.00
+VT40 Day Wednesday - ID 3275  RISHAMDEEP  9-May-18 $     85.00
+VT40 Day Thursday - ID 3275  RISHAMDEEP  10-May-18 $     85.00
+VT40 Day Friday - ID 3275  RISHAMDEEP    11-May-18 $     85.00
+VT40 Day Saturday - ID 4370  ZAHEER   BE 12-May-18 $     85.00
+VT40 Day Sunday - ID 4370  ZAHEER   BEHZ 13-May-18 $     85.00
+VT40 Day Monday - ID 3275  RISHAMDEEP    14-May-18 $     85.00
+VT40 Day Wednesday - ID 3275  RISHAMDEEP 16-May-18 $     85.00
+VT40 Day Thursday - ID 3275  RISHAMDEEP  17-May-18 $     85.00
+VT40 Day Friday - ID 3275  RISHAMDEEP    18-May-18 $     85.00
+VT40 Day Saturday - ID 4370  ZAHEER   BE 19-May-18 $     85.00
+VT40 Day Sunday - ID 4370  ZAHEER   BEHZ 20-May-18 $     85.00
+VT40 Day Tuesday - ID 3275  RISHAMDEEP   22-May-18 $     85.00
+VT40 Day Wednesday - ID 3275  RISHAMDEEP 23-May-18 $     85.00
+VT40 Day Thursday - ID 3275  RISHAMDEEP  24-May-18 $     85.00
+VT40 Day Friday - ID 3275  RISHAMDEEP    25-May-18 $     85.00
+VT40 Day Saturday - ID 4370  ZAHEER   BE 26-May-18 $     85.00
+VT40 Day Sunday - ID 4370  ZAHEER   BEHZ 27-May-18 $     85.00
+VT40 Day Monday - ID 3275  RISHAMDEEP    28-May-18 $     85.00
+VT40 Day Tuesday - ID 3275  RISHAMDEEP   29-May-18 $     85.00
+VT40 Day Wednesday - ID 3275  RISHAMDEEP 30-May-18 $     85.00
+Insurance                                31-May-18 $  (1013.77)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT40 Day Thursday - ID 3275  RISHAMDEEP  31-May-18 $     85.00
+april deposit                            31-May-18 $   (964.38)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.886464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

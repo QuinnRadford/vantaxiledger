@@ -1,0 +1,55 @@
+Account Summary For Islam Mohammad R (159507) Cab 041N
+Account Number: 22041002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   3868.48
+INCOME
+  Lease:                                           $   3125.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   3125.00
+TOTAL EXPENSE:                                     $   1477.26
+BALANCE:                                           $   5516.22
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT41 Night Tuesday - ID 181431  BHUPINDE  1-May-18 $     80.00
+VT41 Night Wednesday - ID 181431  BHUPIN  2-May-18 $     85.00
+VT41 Night Thursday - ID 181431  BHUPIND  3-May-18 $    100.00
+VT41 Night Friday - ID 181431  BHUPINDER  4-May-18 $    180.00
+VT41 Night Saturday - ID 181431  BHUPIND  5-May-18 $    180.00
+VT41 Night Sunday - ID 181431  BHUPINDER  6-May-18 $     80.00
+VT41 Night Tuesday - ID 181431  BHUPINDE  8-May-18 $     80.00
+VT41 Night Wednesday - ID 181431  BHUPIN  9-May-18 $     85.00
+VT41 Night Thursday - ID 68694  SANTOKH  10-May-18 $    100.00
+VT41 Night Friday - ID 68694  SANTOKH MA 11-May-18 $    180.00
+VT41 Night Saturday - ID 68694  SANTOKH  12-May-18 $    180.00
+VT41 Night Sunday - ID 68694  SANTOKH MA 13-May-18 $     80.00
+VT41 Night Tuesday - ID 181431  BHUPINDE 15-May-18 $     80.00
+VT41 Night Wednesday - ID 181431  BHUPIN 16-May-18 $     85.00
+VT41 Night Thursday - ID 181431  BHUPIND 17-May-18 $    100.00
+VT41 Night Friday - ID 181431  BHUPINDER 18-May-18 $    180.00
+VT41 Night Saturday - ID 181431  BHUPIND 19-May-18 $    180.00
+VT41 Night Sunday - ID 181431  BHUPINDER 20-May-18 $    120.00
+VT41 Night Tuesday - ID 181431  BHUPINDE 22-May-18 $     80.00
+VT41 Night Wednesday - ID 181431  BHUPIN 23-May-18 $     85.00
+VT41 Night Thursday - ID 181431  BHUPIND 24-May-18 $    100.00
+VT41 Night Friday - ID 181431  BHUPINDER 25-May-18 $    180.00
+VT41 Night Saturday - ID 181431  BHUPIND 26-May-18 $    180.00
+VT41 Night Sunday - ID 181431  BHUPINDER 27-May-18 $     80.00
+VT41 Night Tuesday - ID 181431  BHUPINDE 29-May-18 $     80.00
+VT41 Night Wednesday - ID 181431  BHUPIN 30-May-18 $     85.00
+Insurance                                31-May-18 $   (990.41)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT41 Night Thursday - ID 181431  BHUPIND 31-May-18 $    100.00
+april deposit                            31-May-18 $  (1934.24)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.888464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

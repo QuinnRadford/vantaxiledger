@@ -1,0 +1,47 @@
+Account Summary For Randhawa Jaspal (431566) Cab 074N
+Account Number: 22074002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   7296.58
+INCOME
+  Lease:                                           $   1405.00
+  Envelopes:                                       $   3015.14
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   4420.14
+TOTAL EXPENSE:                                     $   1516.34
+BALANCE:                                           $  10200.38
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT74 Night Tuesday - ID 6070  JASDEV SIN  1-May-18 $     95.00
+VT74 Night Sunday - ID 6070  JASDEV SING  6-May-18 $     95.00
+VT74 Night Sunday - ID 6070  JASDEV SING 13-May-18 $     95.00
+VT74 Night Monday - ID 6070  JASDEV SING 14-May-18 $     95.00
+VT74 Night Tuesday - ID 6070  JASDEV SIN 15-May-18 $     95.00
+VT74 Night Friday - ID 6070  JASDEV SING 18-May-18 $    200.00
+VT74 Night Saturday - ID 6070  JASDEV SI 19-May-18 $    200.00
+VT74 Night Sunday - ID 6070  JASDEV SING 20-May-18 $    120.00
+VT74 Night Monday - ID 6070  JASDEV SING 21-May-18 $     95.00
+VT74 Night Tuesday - ID 6070  JASDEV SIN 22-May-18 $     95.00
+VT74 Night Wednesday - ID 6070  JASDEV S 23-May-18 $    100.00
+VT74 Night Thursday - ID 6070  JASDEV SI 24-May-18 $    120.00
+Insurance                                31-May-18 $  (1029.49)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+11-May                                   31-May-18 $     42.00
+11-May                                   31-May-18 $   1280.80
+22-May                                   31-May-18 $     28.30
+22-May                                   31-May-18 $      5.00
+22-May                                   31-May-18 $   1241.21
+31-May                                   31-May-18 $     19.70
+31-May                                   31-May-18 $    398.13
+april deposit                            31-May-18 $  (3648.29)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.919464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

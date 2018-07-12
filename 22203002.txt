@@ -1,0 +1,26 @@
+Account Summary For Vancouver Taxi Ltd. (9999) Cab 203N
+Account Number: 22203002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $      0.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $     22.40
+TOTAL INCOME:                                      $     22.40
+TOTAL EXPENSE:                                     $     22.40
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+WiFi Including PST                       31-May-18 $    (21.40)
+WiFi Including PST                       31-May-18 $     21.40
+GST on WiFi                              31-May-18 $     (1.00)
+GST on WiFi                              31-May-18 $      1.00
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.952464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

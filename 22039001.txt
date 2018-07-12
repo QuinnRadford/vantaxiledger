@@ -1,0 +1,53 @@
+Account Summary For Sidhu B (911111) Cab 039D
+Account Number: 22039001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $      0.00
+INCOME
+  Lease:                                           $   2125.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $   (609.99)
+TOTAL INCOME:                                      $   1515.01
+TOTAL EXPENSE:                                     $   1515.01
+BALANCE:                                           $      0.00
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT39 Day Wednesday - ID 3736  JAGDIP SIN  2-May-18 $     85.00
+VT39 Day Thursday - ID 3736  JAGDIP SING  3-May-18 $     85.00
+VT39 Day Friday - ID 3736  JAGDIP SINGH   4-May-18 $     85.00
+VT39 Day Saturday - ID 3736  JAGDIP SING  5-May-18 $     85.00
+VT39 Day Sunday - ID 3736  JAGDIP SINGH   6-May-18 $     85.00
+VT39 Day Monday - ID 3736  JAGDIP SINGH   7-May-18 $     85.00
+VT39 Day Wednesday - ID 3736  JAGDIP SIN  9-May-18 $     85.00
+VT39 Day Thursday - ID 3736  JAGDIP SING 10-May-18 $     85.00
+VT39 Day Friday - ID 3736  JAGDIP SINGH  11-May-18 $     85.00
+VT39 Day Saturday - ID 3736  JAGDIP SING 12-May-18 $     85.00
+VT39 Day Sunday - ID 3736  JAGDIP SINGH  13-May-18 $     85.00
+VT39 Day Monday - ID 3736  JAGDIP SINGH  14-May-18 $     85.00
+VT39 Day Wednesday - ID 3736  JAGDIP SIN 16-May-18 $     85.00
+VT39 Day Thursday - ID 3736  JAGDIP SING 17-May-18 $     85.00
+VT39 Day Friday - ID 3736  JAGDIP SINGH  18-May-18 $     85.00
+VT39 Day Saturday - ID 3736  JAGDIP SING 19-May-18 $     85.00
+VT39 Day Sunday - ID 3736  JAGDIP SINGH  20-May-18 $     85.00
+VT39 Day Tuesday - ID 3736  JAGDIP SINGH 22-May-18 $     85.00
+VT39 Day Wednesday - ID 3736  JAGDIP SIN 23-May-18 $     85.00
+VT39 Day Thursday - ID 3736  JAGDIP SING 24-May-18 $     85.00
+VT39 Day Friday - ID 3736  JAGDIP SINGH  25-May-18 $     85.00
+VT39 Day Sunday - ID 3736  JAGDIP SINGH  27-May-18 $     85.00
+VT39 Day Monday - ID 3736  JAGDIP SINGH  28-May-18 $     85.00
+VT39 Day Wednesday - ID 3736  JAGDIP SIN 30-May-18 $     85.00
+Insurance                                31-May-18 $  (1028.16)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT39 Day Thursday - ID 3736  JAGDIP SING 31-May-18 $     85.00
+TRANSFER                                 31-May-18 $   (609.99)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.885464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

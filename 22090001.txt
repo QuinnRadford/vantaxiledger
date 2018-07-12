@@ -1,0 +1,41 @@
+Account Summary For Virk Rajinder (160520) Cab 090D
+Account Number: 22090001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   4543.60
+INCOME
+  Lease:                                           $    380.00
+  Envelopes:                                       $   4822.06
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   5202.06
+TOTAL EXPENSE:                                     $   1537.81
+BALANCE:                                           $   8207.85
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT90 Day Sunday - ID 214029  STEVE  HAN   6-May-18 $     95.00
+VT90 Day Sunday - ID 214029  STEVE  HAN  13-May-18 $     95.00
+VT90 Day Sunday - ID 214029  STEVE  HAN  20-May-18 $     95.00
+VT90 Day Sunday - ID 214029  STEVE  HAN  27-May-18 $     95.00
+Insurance                                31-May-18 $  (1050.96)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+11-May                                   31-May-18 $    322.60
+11-May                                   31-May-18 $   1023.51
+22-May                                   31-May-18 $    127.50
+22-May                                   31-May-18 $     56.00
+22-May                                   31-May-18 $    892.50
+30-May                                   31-May-18 $   1058.16
+31-May                                   31-May-18 $    394.75
+31-May                                   31-May-18 $     36.00
+31-May                                   31-May-18 $    911.04
+april deposit                            31-May-18 $  (2271.80)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.925464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

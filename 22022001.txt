@@ -1,0 +1,61 @@
+Account Summary For Prabhjit Dosanjh Cab 022D
+Account Number: 22022001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   2667.34
+INCOME
+  Lease:                                           $   2945.00
+  Envelopes:                                       $      0.00
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   2945.00
+TOTAL EXPENSE:                                     $   2945.00
+BALANCE:                                           $   2667.34
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT22 Day Tuesday - ID 6285  SVETOSLAV     1-May-18 $     95.00
+VT22 Day Wednesday - ID 6285  SVETOSLAV   2-May-18 $     95.00
+VT22 Day Thursday - ID 6285  SVETOSLAV    3-May-18 $     95.00
+VT22 Day Friday - ID 6285  SVETOSLAV   I  4-May-18 $     95.00
+VT22 Day Saturday - ID 6285  SVETOSLAV    5-May-18 $     95.00
+VT22 Day Sunday - ID 6285  SVETOSLAV   I  6-May-18 $     95.00
+VT22 Day Monday - ID 6285  SVETOSLAV   I  7-May-18 $     95.00
+VT22 Day Tuesday - ID 6285  SVETOSLAV     8-May-18 $     95.00
+VT22 Day Wednesday - ID 6285  SVETOSLAV   9-May-18 $     95.00
+West Coast Meter Service Ltd.             9-May-18 $    (28.00)
+VT22 Day Thursday - ID 6285  SVETOSLAV   10-May-18 $     95.00
+VT22 Day Friday - ID 6285  SVETOSLAV   I 11-May-18 $     95.00
+VT22 Day Saturday - ID 6285  SVETOSLAV   12-May-18 $     95.00
+VT22 Day Sunday - ID 6285  SVETOSLAV   I 13-May-18 $     95.00
+VT22 Day Monday - ID 6285  SVETOSLAV   I 14-May-18 $     95.00
+VT22 Day Tuesday - ID 6285  SVETOSLAV    15-May-18 $     95.00
+VT22 Day Wednesday - ID 6285  SVETOSLAV  16-May-18 $     95.00
+VT22 Day Thursday - ID 6285  SVETOSLAV   17-May-18 $     95.00
+VT22 Day Friday - ID 6285  SVETOSLAV   I 18-May-18 $     95.00
+VT22 Day Saturday - ID 6285  SVETOSLAV   19-May-18 $     95.00
+VT22 Day Sunday - ID 6285  SVETOSLAV   I 20-May-18 $     95.00
+VT22 Day Monday - ID 6285  SVETOSLAV   I 21-May-18 $     95.00
+VT22 Day Tuesday - ID 6285  SVETOSLAV    22-May-18 $     95.00
+VT22 Day Wednesday - ID 6285  SVETOSLAV  23-May-18 $     95.00
+VT22 Day Thursday - ID 6285  SVETOSLAV   24-May-18 $     95.00
+VT22 Day Friday - ID 6285  SVETOSLAV   I 25-May-18 $     95.00
+VT22 Day Saturday - ID 6285  SVETOSLAV   26-May-18 $     95.00
+VT22 Day Sunday - ID 6285  SVETOSLAV   I 27-May-18 $     95.00
+VT22 Day Monday - ID 6285  SVETOSLAV   I 28-May-18 $     95.00
+VT22 Day Tuesday - ID 6285  SVETOSLAV    29-May-18 $     95.00
+VT22 Day Wednesday - ID 6285  SVETOSLAV  30-May-18 $     95.00
+Insurance                                31-May-18 $  (1029.48)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+VT22 Day Thursday - ID 6285  SVETOSLAV   31-May-18 $     95.00
+april deposit                            31-May-18 $  (1333.67)
+22D - 101D                               31-May-18 $  (1400.67)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.863464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

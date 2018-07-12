@@ -1,0 +1,40 @@
+Account Summary For Dhami Hardeep (3614) Cab 013D
+Account Number: 22013001
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $  11142.00
+INCOME
+  Lease:                                           $    380.00
+  Envelopes:                                       $   6617.21
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   6997.21
+TOTAL EXPENSE:                                     $   2950.33
+BALANCE:                                           $  15188.88
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT13 Day Sunday - ID 420198  GURJAP  DHI  6-May-18 $     95.00
+VT13 Day Wednesday - ID 627  BALWANT  DH  9-May-18 $     95.00
+VT13 Day Sunday - ID 3356  GHAZI MAHFOUZ 13-May-18 $     95.00
+VT13 Day Sunday - ID 62063  GURWINDER AU 20-May-18 $     95.00
+Ta                                       31-May-18 $   1880.60
+Ta                                       31-May-18 $     59.30
+Ta                                       31-May-18 $      4.00
+Insurance                                31-May-18 $  (1029.48)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (18.72)
+GST on WiFi                              31-May-18 $     (0.88)
+23-May                                   31-May-18 $    346.75
+23-May                                   31-May-18 $     35.00
+23-May                                   31-May-18 $   4291.56
+april deposit                            31-May-18 $  (5571.00)
+705 - 13D                                31-May-18 $  (1339.00)
+GURWINDER AULAKH INSF BALANCE 6D 111D 13 31-May-18 $    (95.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.856464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC

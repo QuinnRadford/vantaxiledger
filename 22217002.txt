@@ -1,0 +1,59 @@
+Account Summary For Sekhon Yadwinder Cab 217N
+Account Number: 22217002
+Date:May 1 - May 31
+
+MONTHLY SUMMARY
+---------------------------------------------------------------
+OPENING BALANCE:                                   $   5355.96
+INCOME
+  Lease:                                           $   2985.00
+  Envelopes:                                       $   5152.05
+  Other Credits:                                   $      0.00
+TOTAL INCOME:                                      $   8137.05
+TOTAL EXPENSE:                                     $   4520.15
+BALANCE:                                           $   8972.86
+
+TRANSACTIONS
+---------------------------------------------------------------
+VT217 Night Wednesday - ID 929661  YADWI  2-May-18 $    100.00
+VT217 Night Thursday - ID 929661  YADWIN  3-May-18 $    120.00
+VT217 Night Friday - ID 929661  YADWINDE  4-May-18 $    200.00
+VT217 Night Saturday - ID 929661  YADWIN  5-May-18 $    200.00
+VT217 Night Sunday - ID 929661  YADWINDE  6-May-18 $     95.00
+VT217 Night Wednesday - ID 929661  YADWI  9-May-18 $    100.00
+VT217 Night Thursday - ID 929661  YADWIN 10-May-18 $    120.00
+VT217 Night Friday - ID 929661  YADWINDE 11-May-18 $    200.00
+VT217 Night Saturday - ID 929661  YADWIN 12-May-18 $    200.00
+VT217 Night Sunday - ID 929661  YADWINDE 13-May-18 $     95.00
+VT217 Night Wednesday - ID 929661  YADWI 16-May-18 $    100.00
+VT217 Night Thursday - ID 929661  YADWIN 17-May-18 $    120.00
+VT217 Night Friday - ID 929661  YADWINDE 18-May-18 $    200.00
+VT217 Night Saturday - ID 929661  YADWIN 19-May-18 $    200.00
+VT217 Night Tuesday - ID 929661  YADWIND 22-May-18 $     95.00
+VT217 Night Wednesday - ID 929661  YADWI 23-May-18 $    100.00
+VT217 Night Thursday - ID 929661  YADWIN 24-May-18 $    120.00
+VT217 Night Friday - ID 929661  YADWINDE 25-May-18 $    200.00
+VT217 Night Saturday - ID 929661  YADWIN 26-May-18 $    200.00
+VT217 Night Wednesday - ID 929661  YADWI 30-May-18 $    100.00
+Insurance                                31-May-18 $  (1045.50)
+Service Fee                              31-May-18 $   (445.00)
+GST on Service Fee                       31-May-18 $    (22.25)
+WiFi Including PST                       31-May-18 $    (21.40)
+GST on WiFi                              31-May-18 $     (1.00)
+VT217 Night Thursday - ID 929661  YADWIN 31-May-18 $    120.00
+9-May                                    31-May-18 $    421.05
+9-May                                    31-May-18 $   1262.30
+16-May                                   31-May-18 $     17.40
+16-May                                   31-May-18 $     20.00
+16-May                                   31-May-18 $    959.60
+23-May                                   31-May-18 $     19.70
+23-May                                   31-May-18 $    617.90
+31-May                                   31-May-18 $    273.80
+31-May                                   31-May-18 $   1560.30
+april deposit                            31-May-18 $  (2677.98)
+YADWINDER LEASE REFUND                   31-May-18 $  (2985.00)
+
+---------------------------------------------------------------
+Generated on 2018-07-12 14:56:47.967464
+Vancouver Taxi Ltd.
+790 Clark Drive Vancouver BC
