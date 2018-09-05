@@ -1,0 +1,277 @@
+<html>
+<head>
+<title>Car Attendance for $CAR_NAME</title>
+<style>
+table{
+width:100%!important;
+}
+tfoot{
+  width:100%!important;
+}
+
+.boxed{
+  padding:15px;
+}
+.shiftcontent tr:last-child td{
+  border-bottom: 1px solid black;
+}
+.totalcontent tr td:nth-child(2){
+  border-bottom: 1px solid black;
+}
+.totalcontent tr td:first-child{
+  font-weight: bold;
+}
+.shiftcontent tr td{
+  text-transform: uppercase;
+}
+.shiftcontent tr:first-child td{
+  text-transform: uppercase;
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+.totalcontent tr td{
+    text-align: right;
+}
+.rightalign{
+  text-align: right;
+}
+.totalcontent tr:last-child td:last-child{
+  border-bottom: none;
+  border-top: 2px double black;
+}
+tbody tr td:first-child{
+  width:60%;
+}
+tbody tr td:last-child{
+  width:30%;
+}
+table.totalcontent tr td:first-child{
+  width:60%;
+}
+table.totalcontent tr td:last-child{
+  width:30%;
+}
+.heading-row div:first-child{
+  float:left;
+}
+.heading-row div:last-child{
+  float:right;
+}
+.table-data{
+  text-align: right;
+  font-weight: bold; 
+}
+.summary-sub p {
+    padding-left: 25px;
+    font-style: italic;
+    
+}
+.data-sub p{
+  font-style: italic;
+  font-weight: 400; 
+}
+.summary-main p{
+  font-weight: bold;
+}
+td{
+  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+}
+thead { display: table-row-group;page-break-after: avoid; }
+i.gst {
+    font-size: 10px;
+    vertical-align: 2px;
+}
+</style>
+</head>
+<body>
+  <div class="heading-row">
+<div>
+    <img src="img/logo.png" height="50px" alt="Vancouver Taxi">
+    <br/>
+    <p>790 Clark Dr<br/>
+     Vancouver, BC<br/>
+    V5L 3J2<br/></p>
+</div>
+<div>
+    <h2>$CAR_NAME</h2>
+    <h3>Monthly Statement</h3>
+</div>
+</div>
+<table>
+<thead>
+  <tr>
+    <td class="boxed">
+      <p>
+        <b>Report Range:</b>
+        <p>$DATERANGE</p>
+      </p>
+  </td>
+  <td>
+      <p><i>Inform accounting of any changes by the 10th of the month.</i></p>
+  </td>
+  </tr>
+</thead>
+<tbody class="shiftcontent">
+  <tr>
+    <td>
+      <b>MONTHLY SUMMARY</b>
+    </td>
+    <td>
+      
+      </td>
+  </tr>
+
+  <tr>
+      <td class="summary-main">
+        <p>Opening Balance</p>
+      </td>
+      <td>
+        <p class="table-data">$OPENING_BALANCE</p>
+      </td>
+      </tr>
+      <tr>
+      <td class="summary-main">
+        <p>Income</p>
+        </td>
+        <td>
+        </td></tr>
+        <tr>
+        <td class="summary-sub">
+          <p>Taxi License Fee</p>
+          </td>
+          <td class="data-sub">
+            <p class="table-data">$LEASE</p>
+          </td></tr>
+          <tr>
+          <td class="summary-sub">
+            <p>Charges/Deposits</p>
+            </td>
+            <td class="data-sub">
+              <p class="table-data">$ENVELOPES</p>
+            </td></tr>
+            <tr>
+              <td class="summary-sub">
+                <p>Transfer In</p>
+                </td>
+                <td class="data-sub">
+                  <p class="table-data">$TRANSFER_IN</p>
+                </td></tr>
+            <tr>
+            <td class="summary-sub">
+              <p>Other Credits</p>
+              </td>
+              <td class="data-sub">
+                <p class="table-data">$OTHER_CREDIT</p>
+              </td></tr>
+              <tr>
+              <td class="summary-main">
+                <p>Total Income</p>
+                </td>
+                <td>
+                  <p class="table-data">$TOTAL_INCOME</p>
+                </td></tr>
+                <tr>
+                <td class="summary-main">
+                  <p>Expenses</p>
+                  </td>
+                  <td>
+                  </td></tr>
+                  <tr>
+                      <td class="summary-sub">
+                        <p>Service Fee <i class="gst">(inc. GST)</i></p>
+                        </td>
+                        <td class="data-sub">
+                          <p class="table-data">$SERVICE</p>
+                        </td></tr>
+                        <tr>
+                            <td class="summary-sub">
+                              <p>Insurance</p>
+                              </td>
+                              <td class="data-sub">
+                                <p class="table-data">$INSURANCE</p>
+                              </td></tr>
+                              <tr>
+                                  <td class="summary-sub">
+                                    <p>Wifi <i class="gst">(inc. GST)</i></p>
+                                    </td>
+                                    <td class="data-sub">
+                                      <p class="table-data">$WIFI</p>
+                                    </td></tr>
+                                    <td class="summary-sub">
+                                        <p>Other Expenses</p>
+                                        </td>
+                                        <td class="data-sub">
+                                          <p class="table-data">$OTHER_EXPENSE</p>
+                                        </td></tr>
+                                        <td class="summary-main">
+                                            <p>Total Expense</p>
+                                            </td>
+                                            <td>
+                                              <p class="table-data">$TOTAL_EXPENSE</p>
+                                            </td></tr>
+                                            <tr>
+                                              <td class="summary-main">
+                                                <p>Transfer Out <i class="gst">(inc. GST)</i></p>
+                                                </td>
+                                                <td>
+                                                  <p class="table-data">$TRANSFER_OUT</p>
+                                                </td>
+                              </tr>
+                                            <tr>
+                  <td class="summary-main">
+                    <p>Final Balance</p>
+                    </td>
+                    <td>
+                      <p class="table-data">$FINAL_BALANCE</p>
+                    </td>
+  </tr>
+</tbody>
+</table>
+<i>See page 2 for transaction details</i>
+<p>$NOTES</p>
+<p style="page-break-after: always;">&nbsp;</p>
+<p style="page-break-before: always;">&nbsp;</p>
+<h3>$CAR_NAME</h3>
+<p>$DATERANGE</p>
+<table class="shiftcontent">
+    <tr>
+        <td>
+          <b>INCOME TRANSACTIONS</b>
+        </td>
+        <td>
+
+        </td>
+      </tr>
+    
+
+
+              $TRANSACTION_DATA
+
+
+
+        
+
+</table>
+<br/>
+<table class="shiftcontent">
+  <tr>
+      <td>
+        <b>EXPENSES TRANSACTIONS</b>
+      </td>
+      <td>
+
+      </td>
+    </tr>
+  
+
+
+            $TRANSACTION_EXPENSE_DATA
+
+
+
+      
+
+</table>
+<p>$NOTES</p>
+</body>
+</html>
